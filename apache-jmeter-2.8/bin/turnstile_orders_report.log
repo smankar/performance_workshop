@@ -1,0 +1,1461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="4018" lt="1541" ts="1370324842568" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="307693">
+  <httpSample t="1546" lt="1541" ts="1370324842568" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="473" lt="473" ts="1370324844172" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3866"/>
+  <httpSample t="1608" lt="894" ts="1370324844733" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1846" lt="943" ts="1370324844740" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4070" lt="1541" ts="1370324842568" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="307693">
+  <httpSample t="1545" lt="1541" ts="1370324842568" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="449" lt="449" ts="1370324844172" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3866"/>
+  <httpSample t="1657" lt="918" ts="1370324844741" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1898" lt="820" ts="1370324844740" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4104" lt="1541" ts="1370324842568" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="307693">
+  <httpSample t="1545" lt="1541" ts="1370324842568" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="440" lt="440" ts="1370324844172" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="3866"/>
+  <httpSample t="1575" lt="956" ts="1370324844737" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="1932" lt="907" ts="1370324844740" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4170" lt="1542" ts="1370324842568" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="307693">
+  <httpSample t="1545" lt="1542" ts="1370324842568" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="446" lt="446" ts="1370324844172" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3866"/>
+  <httpSample t="1711" lt="808" ts="1370324844738" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1998" lt="946" ts="1370324844740" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4194" lt="1541" ts="1370324842568" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="307693">
+  <httpSample t="1545" lt="1541" ts="1370324842568" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="575" lt="574" ts="1370324844172" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3866"/>
+  <httpSample t="1457" lt="874" ts="1370324844765" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1996" lt="938" ts="1370324844766" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4204" lt="1541" ts="1370324842568" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="307693">
+  <httpSample t="1545" lt="1541" ts="1370324842568" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="485" lt="485" ts="1370324844172" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3866"/>
+  <httpSample t="1678" lt="934" ts="1370324844738" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="2032" lt="966" ts="1370324844740" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="616" lt="616" ts="1370324847094" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Edit Payment Details 2-1" dt="text" by="1030"/>
+<httpSample t="522" lt="522" ts="1370324847192" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Place a New Order 1-1" dt="text" by="1030"/>
+<httpSample t="614" lt="614" ts="1370324847192" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Edit Player Details 6-1" dt="text" by="1030"/>
+<httpSample t="576" lt="576" ts="1370324847241" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Add New Selections 4-1" dt="text" by="1030"/>
+<httpSample t="640" lt="639" ts="1370324847264" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Cancel Existing Order 3-1" dt="text" by="1030"/>
+<httpSample t="631" lt="630" ts="1370324847275" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Edit Existing Selections 5-1" dt="text" by="1030"/>
+<httpSample t="2713" lt="728" ts="1370324848397" s="true" lb="get new Customer Form" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="310080">
+  <httpSample t="729" lt="728" ts="1370324848397" s="true" lb="https://antuat.fptest.co.uk/customers/new?title=Mr&amp;first_names=Performance&amp;surname=Tester&amp;address[address_line1]=203%20KENTS%20HILL%20RD&amp;address[address_line2]=Baker%20Street&amp;address[address_line3]=221B&amp;address[address_line4]=221b&amp;address[post_code]=NE12JQ&amp;telephones[daytime][number]=0101010101&amp;telephones[evening][number]=0202020202&amp;telephones[mobile][number]=0707070707&amp;dob_year=1984&amp;dob_month=10&amp;dob_day=09&amp;email_address=abc.xyz@gmail.com&amp;segment=881757" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="6824"/>
+  <httpSample t="1846" lt="1073" ts="1370324849150" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1960" lt="913" ts="1370324849150" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+  <httpSample t="768" lt="768" ts="1370324849153" s="true" lb="https://antuat.fptest.co.uk/assets/setup_dupe_checker-dba65719b737111ff743f49eb68c0068.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="414"/>
+</httpSample>
+<httpSample t="2738" lt="696" ts="1370324848397" s="true" lb="get new Customer Form" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="310082">
+  <httpSample t="696" lt="696" ts="1370324848397" s="true" lb="https://antuat.fptest.co.uk/customers/new?title=Mr&amp;first_names=Performance&amp;surname=Tester&amp;address[address_line1]=203%20KENTS%20HILL%20RD&amp;address[address_line2]=Baker%20Street&amp;address[address_line3]=221B&amp;address[address_line4]=221b&amp;address[post_code]=NE12JQ&amp;telephones[daytime][number]=0101010101&amp;telephones[evening][number]=0202020202&amp;telephones[mobile][number]=0707070707&amp;dob_year=1984&amp;dob_month=10&amp;dob_day=09&amp;email_address=abc.xyz@gmail.com&amp;segment=881757" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="6826"/>
+  <httpSample t="1722" lt="953" ts="1370324849124" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="2011" lt="934" ts="1370324849124" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+  <httpSample t="798" lt="798" ts="1370324849123" s="true" lb="https://antuat.fptest.co.uk/assets/setup_dupe_checker-dba65719b737111ff743f49eb68c0068.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="414"/>
+</httpSample>
+<httpSample t="2848" lt="687" ts="1370324848366" s="true" lb="get new Customer Form" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="310079">
+  <httpSample t="688" lt="687" ts="1370324848366" s="true" lb="https://antuat.fptest.co.uk/customers/new?title=Mr&amp;first_names=Performance&amp;surname=Tester&amp;address[address_line1]=203%20KENTS%20HILL%20RD&amp;address[address_line2]=Baker%20Street&amp;address[address_line3]=221B&amp;address[address_line4]=221b&amp;address[post_code]=NE12JQ&amp;telephones[daytime][number]=0101010101&amp;telephones[evening][number]=0202020202&amp;telephones[mobile][number]=0707070707&amp;dob_year=1984&amp;dob_month=10&amp;dob_day=09&amp;email_address=abc.xyz@gmail.com&amp;segment=881757" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="6823"/>
+  <httpSample t="1575" lt="976" ts="1370324849081" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="2133" lt="1000" ts="1370324849081" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+  <httpSample t="831" lt="831" ts="1370324849081" s="true" lb="https://antuat.fptest.co.uk/assets/setup_dupe_checker-dba65719b737111ff743f49eb68c0068.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="414"/>
+</httpSample>
+<httpSample t="3015" lt="744" ts="1370324848409" s="true" lb="get new Customer Form" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="310079">
+  <httpSample t="744" lt="744" ts="1370324848409" s="true" lb="https://antuat.fptest.co.uk/customers/new?title=Mr&amp;first_names=Performance&amp;surname=Tester&amp;address[address_line1]=203%20KENTS%20HILL%20RD&amp;address[address_line2]=Baker%20Street&amp;address[address_line3]=221B&amp;address[address_line4]=221b&amp;address[post_code]=NE12JQ&amp;telephones[daytime][number]=0101010101&amp;telephones[evening][number]=0202020202&amp;telephones[mobile][number]=0707070707&amp;dob_year=1984&amp;dob_month=10&amp;dob_day=09&amp;email_address=abc.xyz@gmail.com&amp;segment=881757" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="6823"/>
+  <httpSample t="2246" lt="922" ts="1370324849178" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1927" lt="911" ts="1370324849176" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+  <httpSample t="782" lt="782" ts="1370324849178" s="true" lb="https://antuat.fptest.co.uk/assets/setup_dupe_checker-dba65719b737111ff743f49eb68c0068.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="414"/>
+</httpSample>
+<httpSample t="3058" lt="726" ts="1370324848366" s="true" lb="get new Customer Form" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="310082">
+  <httpSample t="727" lt="726" ts="1370324848366" s="true" lb="https://antuat.fptest.co.uk/customers/new?title=Mr&amp;first_names=Performance&amp;surname=Tester&amp;address[address_line1]=203%20KENTS%20HILL%20RD&amp;address[address_line2]=Baker%20Street&amp;address[address_line3]=221B&amp;address[address_line4]=221b&amp;address[post_code]=NE12JQ&amp;telephones[daytime][number]=0101010101&amp;telephones[evening][number]=0202020202&amp;telephones[mobile][number]=0707070707&amp;dob_year=1984&amp;dob_month=10&amp;dob_day=09&amp;email_address=abc.xyz@gmail.com&amp;segment=881757" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="6826"/>
+  <httpSample t="2301" lt="956" ts="1370324849123" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="2299" lt="955" ts="1370324849122" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+  <httpSample t="796" lt="795" ts="1370324849124" s="true" lb="https://antuat.fptest.co.uk/assets/setup_dupe_checker-dba65719b737111ff743f49eb68c0068.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="414"/>
+</httpSample>
+<httpSample t="4877" lt="756" ts="1370324848410" s="true" lb="get new Customer Form" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="310081">
+  <httpSample t="757" lt="756" ts="1370324848410" s="true" lb="https://antuat.fptest.co.uk/customers/new?title=Mr&amp;first_names=Performance&amp;surname=Tester&amp;address[address_line1]=203%20KENTS%20HILL%20RD&amp;address[address_line2]=Baker%20Street&amp;address[address_line3]=221B&amp;address[address_line4]=221b&amp;address[post_code]=NE12JQ&amp;telephones[daytime][number]=0101010101&amp;telephones[evening][number]=0202020202&amp;telephones[mobile][number]=0707070707&amp;dob_year=1984&amp;dob_month=10&amp;dob_day=09&amp;email_address=abc.xyz@gmail.com&amp;segment=881757" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="6825"/>
+  <httpSample t="1657" lt="900" ts="1370324849196" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="4091" lt="768" ts="1370324849196" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+  <httpSample t="728" lt="728" ts="1370324849195" s="true" lb="https://antuat.fptest.co.uk/assets/setup_dupe_checker-dba65719b737111ff743f49eb68c0068.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="414"/>
+</httpSample>
+<httpSample t="5088" lt="1626" ts="1370324851615" s="true" lb="post new Customer details" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="306625">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1626" lt="1626" ts="1370324851615" s="true" lb="https://antuat.fptest.co.uk/customers" rc="302" rm="Found" tn="" dt="text" by="1283"/>
+  <httpSample t="1471" lt="1470" ts="1370324853243" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944687&amp;segment_code=881757" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="2500"/>
+  <httpSample t="1515" lt="921" ts="1370324854723" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1980" lt="1090" ts="1370324854723" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5065" lt="2112" ts="1370324851646" s="true" lb="post new Customer details" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="306624">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="2112" lt="2112" ts="1370324851646" s="true" lb="https://antuat.fptest.co.uk/customers" rc="302" rm="Found" tn="" dt="text" by="1283"/>
+  <httpSample t="1054" lt="1054" ts="1370324853759" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944688&amp;segment_code=881757" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="2499"/>
+  <httpSample t="1673" lt="774" ts="1370324854825" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1886" lt="752" ts="1370324854825" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5464" lt="2470" ts="1370324851717" s="true" lb="post new Customer details" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="306623">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="2470" lt="2470" ts="1370324851717" s="true" lb="https://antuat.fptest.co.uk/customers" rc="302" rm="Found" tn="" dt="text" by="1283"/>
+  <httpSample t="1126" lt="1126" ts="1370324854189" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944689&amp;segment_code=881757" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="2498"/>
+  <httpSample t="1766" lt="832" ts="1370324855328" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="1853" lt="965" ts="1370324855328" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5467" lt="2676" ts="1370324851928" s="true" lb="post new Customer details" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="306623">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="2676" lt="2676" ts="1370324851928" s="true" lb="https://antuat.fptest.co.uk/customers" rc="302" rm="Found" tn="" dt="text" by="1283"/>
+  <httpSample t="803" lt="803" ts="1370324854605" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944690&amp;segment_code=881757" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2498"/>
+  <httpSample t="1580" lt="962" ts="1370324855417" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1978" lt="939" ts="1370324855417" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5568" lt="3202" ts="1370324851928" s="true" lb="post new Customer details" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="306623">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="3202" lt="3202" ts="1370324851928" s="true" lb="https://antuat.fptest.co.uk/customers" rc="302" rm="Found" tn="" dt="text" by="1283"/>
+  <httpSample t="533" lt="533" ts="1370324855131" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944691&amp;segment_code=881757" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2498"/>
+  <httpSample t="1747" lt="971" ts="1370324855672" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1824" lt="933" ts="1370324855672" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4139" lt="1806" ts="1370324853792" s="true" lb="post new Customer details" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="306625">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1806" lt="1806" ts="1370324853792" s="true" lb="https://antuat.fptest.co.uk/customers" rc="302" rm="Found" tn="" dt="text" by="1283"/>
+  <httpSample t="552" lt="552" ts="1370324855599" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944692&amp;segment_code=881757" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="2500"/>
+  <httpSample t="1548" lt="944" ts="1370324856158" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1770" lt="896" ts="1370324856161" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2441" lt="547" ts="1370324857209" s="true" lb="get Select Subscriptions page" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="305100">
+  <httpSample t="548" lt="547" ts="1370324857209" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944687&amp;segment_code=881757" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="2258"/>
+  <httpSample t="1430" lt="868" ts="1370324857770" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1881" lt="944" ts="1370324857769" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2566" lt="626" ts="1370324857240" s="true" lb="get Select Subscriptions page" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="305100">
+  <httpSample t="626" lt="626" ts="1370324857240" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944688&amp;segment_code=881757" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="2258"/>
+  <httpSample t="1459" lt="874" ts="1370324857879" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1927" lt="764" ts="1370324857879" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2525" lt="622" ts="1370324857684" s="true" lb="get Select Subscriptions page" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="305097">
+  <httpSample t="622" lt="622" ts="1370324857684" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944689&amp;segment_code=881757" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="2255"/>
+  <httpSample t="1682" lt="924" ts="1370324858319" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="1890" lt="792" ts="1370324858319" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2359" lt="534" ts="1370324857898" s="true" lb="get Select Subscriptions page" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="305099">
+  <httpSample t="535" lt="534" ts="1370324857898" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944690&amp;segment_code=881757" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2257"/>
+  <httpSample t="1601" lt="737" ts="1370324858444" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1813" lt="767" ts="1370324858444" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2481" lt="521" ts="1370324857999" s="true" lb="get Select Subscriptions page" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="305099">
+  <httpSample t="521" lt="521" ts="1370324857999" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944691&amp;segment_code=881757" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2257"/>
+  <httpSample t="1729" lt="972" ts="1370324858531" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1949" lt="905" ts="1370324858531" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2301" lt="507" ts="1370324858435" s="true" lb="get Select Subscriptions page" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="305099">
+  <httpSample t="507" lt="507" ts="1370324858435" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944692&amp;segment_code=881757" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="2257"/>
+  <httpSample t="1720" lt="954" ts="1370324858960" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1776" lt="890" ts="1370324858960" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3126" lt="510" ts="1370324860152" s="true" lb="post Order Subscription" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="314439">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="511" lt="510" ts="1370324860152" s="true" lb="https://antuat.fptest.co.uk/orders?customer_id=7944687&amp;segment_code=881757" rc="302" rm="Found" tn="" dt="text" by="1081"/>
+  <httpSample t="647" lt="646" ts="1370324860663" s="true" lb="https://antuat.fptest.co.uk/orders/16/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3495"/>
+  <httpSample t="1717" lt="947" ts="1370324861327" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1952" lt="976" ts="1370324861326" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+  <httpSample t="934" lt="934" ts="1370324861327" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Add New Selections 4-1" dt="bin" by="5929"/>
+  <httpSample t="821" lt="821" ts="1370324861327" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Add New Selections 4-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="2927" lt="570" ts="1370324860981" s="true" lb="post Order Subscription" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="314442">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="570" lt="570" ts="1370324860981" s="true" lb="https://antuat.fptest.co.uk/orders?customer_id=7944691&amp;segment_code=881757" rc="302" rm="Found" tn="" dt="text" by="1081"/>
+  <httpSample t="530" lt="530" ts="1370324861552" s="true" lb="https://antuat.fptest.co.uk/orders/20/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3498"/>
+  <httpSample t="1702" lt="958" ts="1370324862096" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1812" lt="928" ts="1370324862096" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+  <httpSample t="892" lt="892" ts="1370324862098" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="bin" by="5929"/>
+  <httpSample t="831" lt="831" ts="1370324862098" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="2986" lt="489" ts="1370324861238" s="true" lb="post Order Subscription" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="314439">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="489" lt="489" ts="1370324861238" s="true" lb="https://antuat.fptest.co.uk/orders?customer_id=7944692&amp;segment_code=881757" rc="302" rm="Found" tn="" dt="text" by="1081"/>
+  <httpSample t="538" lt="537" ts="1370324861728" s="true" lb="https://antuat.fptest.co.uk/orders/21/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3495"/>
+  <httpSample t="1688" lt="785" ts="1370324862284" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1940" lt="926" ts="1370324862284" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+  <httpSample t="912" lt="912" ts="1370324862284" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="bin" by="5929"/>
+  <httpSample t="825" lt="824" ts="1370324862284" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="3685" lt="569" ts="1370324860772" s="true" lb="post Order Subscription" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="314439">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="570" lt="569" ts="1370324860772" s="true" lb="https://antuat.fptest.co.uk/orders?customer_id=7944690&amp;segment_code=881757" rc="302" rm="Found" tn="" dt="text" by="1081"/>
+  <httpSample t="603" lt="603" ts="1370324861342" s="true" lb="https://antuat.fptest.co.uk/orders/19/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3495"/>
+  <httpSample t="2174" lt="1283" ts="1370324861959" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="2497" lt="1435" ts="1370324861960" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+  <httpSample t="1430" lt="1430" ts="1370324861960" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="bin" by="5929"/>
+  <httpSample t="750" lt="750" ts="1370324861961" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="4254" lt="548" ts="1370324860711" s="true" lb="post Order Subscription" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="314438">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="548" lt="548" ts="1370324860711" s="true" lb="https://antuat.fptest.co.uk/orders?customer_id=7944689&amp;segment_code=881757" rc="302" rm="Found" tn="" dt="text" by="1081"/>
+  <httpSample t="600" lt="600" ts="1370324861259" s="true" lb="https://antuat.fptest.co.uk/orders/18/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="3494"/>
+  <httpSample t="3092" lt="1307" ts="1370324861873" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="1870" lt="958" ts="1370324861873" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+  <httpSample t="945" lt="945" ts="1370324861872" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Place a New Order 1-1" dt="bin" by="5929"/>
+  <httpSample t="816" lt="815" ts="1370324861873" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Place a New Order 1-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="5037" lt="501" ts="1370324860309" s="true" lb="post Order Subscription" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="314442">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="501" lt="501" ts="1370324860309" s="true" lb="https://antuat.fptest.co.uk/orders?customer_id=7944688&amp;segment_code=881757" rc="302" rm="Found" tn="" dt="text" by="1081"/>
+  <httpSample t="609" lt="609" ts="1370324860811" s="true" lb="https://antuat.fptest.co.uk/orders/17/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3498"/>
+  <httpSample t="1626" lt="899" ts="1370324861436" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="3910" lt="890" ts="1370324861436" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+  <httpSample t="934" lt="787" ts="1370324861437" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="bin" by="5929"/>
+  <httpSample t="753" lt="753" ts="1370324861437" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="2363" lt="532" ts="1370324863783" s="true" lb="get new line item" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="313358">
+  <httpSample t="533" lt="532" ts="1370324863783" s="true" lb="https://antuat.fptest.co.uk/orders/16/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3495"/>
+  <httpSample t="1631" lt="897" ts="1370324864328" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1818" lt="917" ts="1370324864328" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+  <httpSample t="922" lt="922" ts="1370324864328" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Add New Selections 4-1" dt="bin" by="5929"/>
+  <httpSample t="774" lt="774" ts="1370324864328" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Add New Selections 4-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="3643" lt="559" ts="1370324864961" s="true" lb="get new line item" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="313358">
+  <httpSample t="559" lt="559" ts="1370324864961" s="true" lb="https://antuat.fptest.co.uk/orders/19/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3495"/>
+  <httpSample t="2367" lt="941" ts="1370324865535" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="3071" lt="775" ts="1370324865533" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+  <httpSample t="941" lt="941" ts="1370324865534" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="bin" by="5929"/>
+  <httpSample t="797" lt="797" ts="1370324865535" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="3878" lt="642" ts="1370324864729" s="true" lb="get new line item" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="313358">
+  <httpSample t="642" lt="642" ts="1370324864729" s="true" lb="https://antuat.fptest.co.uk/orders/21/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3495"/>
+  <httpSample t="2531" lt="817" ts="1370324865383" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="3223" lt="786" ts="1370324865384" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+  <httpSample t="944" lt="944" ts="1370324865383" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="bin" by="5929"/>
+  <httpSample t="804" lt="804" ts="1370324865384" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="2831" lt="592" ts="1370324865849" s="true" lb="get new line item" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="313361">
+  <httpSample t="592" lt="592" ts="1370324865849" s="true" lb="https://antuat.fptest.co.uk/orders/17/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3498"/>
+  <httpSample t="1741" lt="939" ts="1370324866452" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="2228" lt="972" ts="1370324866452" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+  <httpSample t="936" lt="936" ts="1370324866453" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="bin" by="5929"/>
+  <httpSample t="782" lt="782" ts="1370324866453" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="4703" lt="544" ts="1370324864413" s="true" lb="get new line item" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="313361">
+  <httpSample t="544" lt="544" ts="1370324864413" s="true" lb="https://antuat.fptest.co.uk/orders/20/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3498"/>
+  <httpSample t="2331" lt="896" ts="1370324864971" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="4145" lt="808" ts="1370324864971" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+  <httpSample t="925" lt="772" ts="1370324864976" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="bin" by="5929"/>
+  <httpSample t="742" lt="742" ts="1370324864971" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="4131" lt="566" ts="1370324866650" s="true" lb="post entries" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="306634">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="566" lt="566" ts="1370324866650" s="true" lb="https://antuat.fptest.co.uk/orders/16/line_items" rc="302" rm="Found" tn="" dt="text" by="1047"/>
+  <httpSample t="612" lt="611" ts="1370324867218" s="true" lb="https://antuat.fptest.co.uk/orders/16/payment_methods/new" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="2745"/>
+  <httpSample t="2241" lt="913" ts="1370324867841" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="2940" lt="902" ts="1370324867841" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5751" lt="571" ts="1370324865468" s="true" lb="get new line item" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="313357">
+  <httpSample t="571" lt="571" ts="1370324865468" s="true" lb="https://antuat.fptest.co.uk/orders/18/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="3494"/>
+  <httpSample t="5168" lt="931" ts="1370324866051" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="1965" lt="928" ts="1370324866052" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+  <httpSample t="933" lt="932" ts="1370324866051" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Place a New Order 1-1" dt="bin" by="5929"/>
+  <httpSample t="798" lt="797" ts="1370324866052" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Place a New Order 1-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="4230" lt="585" ts="1370324869108" s="true" lb="post entries" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="306629">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="586" lt="585" ts="1370324869108" s="true" lb="https://antuat.fptest.co.uk/orders/19/line_items" rc="302" rm="Found" tn="" dt="text" by="1047"/>
+  <httpSample t="637" lt="637" ts="1370324869695" s="true" lb="https://antuat.fptest.co.uk/orders/19/payment_methods/new" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2740"/>
+  <httpSample t="2233" lt="899" ts="1370324870341" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="2997" lt="888" ts="1370324870341" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4607" lt="1070" ts="1370324869135" s="true" lb="post entries" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="306634">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1070" lt="1070" ts="1370324869135" s="true" lb="https://antuat.fptest.co.uk/orders/21/line_items" rc="302" rm="Found" tn="" dt="text" by="1047"/>
+  <httpSample t="575" lt="575" ts="1370324870207" s="true" lb="https://antuat.fptest.co.uk/orders/21/payment_methods/new" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="2745"/>
+  <httpSample t="2099" lt="901" ts="1370324870790" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="2952" lt="894" ts="1370324870790" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4608" lt="702" ts="1370324869183" s="true" lb="post entries" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="306634">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="702" lt="702" ts="1370324869183" s="true" lb="https://antuat.fptest.co.uk/orders/17/line_items" rc="302" rm="Found" tn="" dt="text" by="1047"/>
+  <httpSample t="689" lt="688" ts="1370324869887" s="true" lb="https://antuat.fptest.co.uk/orders/17/payment_methods/new" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="2745"/>
+  <httpSample t="2314" lt="943" ts="1370324870583" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="3208" lt="940" ts="1370324870583" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4278" lt="778" ts="1370324869620" s="true" lb="post entries" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="306636">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="779" lt="778" ts="1370324869620" s="true" lb="https://antuat.fptest.co.uk/orders/20/line_items" rc="302" rm="Found" tn="" dt="text" by="1047"/>
+  <httpSample t="623" lt="623" ts="1370324870400" s="true" lb="https://antuat.fptest.co.uk/orders/20/payment_methods/new" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2747"/>
+  <httpSample t="2028" lt="885" ts="1370324871034" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="2864" lt="927" ts="1370324871034" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2638" lt="616" ts="1370324871285" s="true" lb="get new payment details form" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="305587">
+  <httpSample t="617" lt="616" ts="1370324871285" s="true" lb="https://antuat.fptest.co.uk/orders/16/payment_methods/new" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="2745"/>
+  <httpSample t="1674" lt="925" ts="1370324871909" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="2014" lt="953" ts="1370324871909" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4265" lt="565" ts="1370324871723" s="true" lb="post entries" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="306628">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="565" lt="565" ts="1370324871723" s="true" lb="https://antuat.fptest.co.uk/orders/18/line_items" rc="302" rm="Found" tn="" dt="text" by="1047"/>
+  <httpSample t="575" lt="575" ts="1370324872289" s="true" lb="https://antuat.fptest.co.uk/orders/18/payment_methods/new" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="2739"/>
+  <httpSample t="2258" lt="925" ts="1370324872871" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="3117" lt="777" ts="1370324872871" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2474" lt="552" ts="1370324873842" s="true" lb="get new payment details form" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="305582">
+  <httpSample t="552" lt="552" ts="1370324873842" s="true" lb="https://antuat.fptest.co.uk/orders/19/payment_methods/new" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2740"/>
+  <httpSample t="1651" lt="921" ts="1370324874405" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1911" lt="918" ts="1370324874405" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2452" lt="641" ts="1370324874245" s="true" lb="get new payment details form" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="305587">
+  <httpSample t="641" lt="641" ts="1370324874245" s="true" lb="https://antuat.fptest.co.uk/orders/21/payment_methods/new" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="2745"/>
+  <httpSample t="1663" lt="924" ts="1370324874893" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1804" lt="906" ts="1370324874893" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2571" lt="647" ts="1370324874293" s="true" lb="get new payment details form" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="305587">
+  <httpSample t="647" lt="647" ts="1370324874293" s="true" lb="https://antuat.fptest.co.uk/orders/17/payment_methods/new" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="2745"/>
+  <httpSample t="1592" lt="871" ts="1370324874947" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1917" lt="755" ts="1370324874947" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3621" lt="991" ts="1370324874426" s="true" lb="post payment details" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="306998">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="991" lt="991" ts="1370324874426" s="true" lb="https://antuat.fptest.co.uk/orders/16/payment_methods" rc="302" rm="Found" tn="" dt="text" by="1007"/>
+  <httpSample t="619" lt="619" ts="1370324875418" s="true" lb="https://antuat.fptest.co.uk/orders/16" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3149"/>
+  <httpSample t="1639" lt="762" ts="1370324876045" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="2002" lt="795" ts="1370324876045" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4005" lt="713" ts="1370324874401" s="true" lb="get new payment details form" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="305589">
+  <httpSample t="713" lt="713" ts="1370324874401" s="true" lb="https://antuat.fptest.co.uk/orders/20/payment_methods/new" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2747"/>
+  <httpSample t="2137" lt="873" ts="1370324875121" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="3285" lt="809" ts="1370324875121" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3808" lt="655" ts="1370324876491" s="true" lb="get new payment details form" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="305581">
+  <httpSample t="655" lt="655" ts="1370324876491" s="true" lb="https://antuat.fptest.co.uk/orders/18/payment_methods/new" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="2739"/>
+  <httpSample t="2266" lt="942" ts="1370324877157" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="3142" lt="949" ts="1370324877157" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4801" lt="944" ts="1370324876818" s="true" lb="post payment details" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="307001">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="944" lt="944" ts="1370324876818" s="true" lb="https://antuat.fptest.co.uk/orders/19/payment_methods" rc="302" rm="Found" tn="" dt="text" by="1007"/>
+  <httpSample t="980" lt="980" ts="1370324877763" s="true" lb="https://antuat.fptest.co.uk/orders/19" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3152"/>
+  <httpSample t="2268" lt="912" ts="1370324878752" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="2867" lt="908" ts="1370324878752" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4933" lt="1151" ts="1370324877367" s="true" lb="post payment details" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="306998">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1151" lt="1151" ts="1370324877367" s="true" lb="https://antuat.fptest.co.uk/orders/17/payment_methods" rc="302" rm="Found" tn="" dt="text" by="1007"/>
+  <httpSample t="758" lt="758" ts="1370324878519" s="true" lb="https://antuat.fptest.co.uk/orders/17" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3149"/>
+  <httpSample t="2171" lt="919" ts="1370324879285" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="3014" lt="897" ts="1370324879286" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4742" lt="871" ts="1370324878550" s="true" lb="get review order page" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="305991">
+  <httpSample t="871" lt="871" ts="1370324878550" s="true" lb="https://antuat.fptest.co.uk/orders/16" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3149"/>
+  <httpSample t="3403" lt="870" ts="1370324879429" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="3863" lt="923" ts="1370324879429" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="6335" lt="1166" ts="1370324877200" s="true" lb="post payment details" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="307000">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1166" lt="1166" ts="1370324877200" s="true" lb="https://antuat.fptest.co.uk/orders/21/payment_methods" rc="302" rm="Found" tn="" dt="text" by="1007"/>
+  <httpSample t="1203" lt="1202" ts="1370324878368" s="true" lb="https://antuat.fptest.co.uk/orders/21" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3151"/>
+  <httpSample t="2926" lt="774" ts="1370324879589" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="3945" lt="775" ts="1370324879590" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="821" lt="821" ts="1370324883795" s="true" lb="submit order" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="927"/>
+<httpSample t="5873" lt="1108" ts="1370324878909" s="true" lb="post payment details" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="306999">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1108" lt="1108" ts="1370324878909" s="true" lb="https://antuat.fptest.co.uk/orders/20/payment_methods" rc="302" rm="Found" tn="" dt="text" by="1007"/>
+  <httpSample t="693" lt="692" ts="1370324880018" s="true" lb="https://antuat.fptest.co.uk/orders/20" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3150"/>
+  <httpSample t="2895" lt="999" ts="1370324880722" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="4060" lt="956" ts="1370324880722" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5109" lt="856" ts="1370324880802" s="true" lb="post payment details" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="306990">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="856" lt="856" ts="1370324880802" s="true" lb="https://antuat.fptest.co.uk/orders/18/payment_methods" rc="302" rm="Found" tn="" dt="text" by="1007"/>
+  <httpSample t="775" lt="774" ts="1370324881659" s="true" lb="https://antuat.fptest.co.uk/orders/18" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="3141"/>
+  <httpSample t="2477" lt="896" ts="1370324882443" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="3468" lt="940" ts="1370324882443" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4146" lt="710" ts="1370324882122" s="true" lb="get review order page" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="305994">
+  <httpSample t="710" lt="710" ts="1370324882122" s="true" lb="https://antuat.fptest.co.uk/orders/19" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3152"/>
+  <httpSample t="2634" lt="826" ts="1370324882840" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="3428" lt="989" ts="1370324882840" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4112" lt="736" ts="1370324882803" s="true" lb="get review order page" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="305991">
+  <httpSample t="737" lt="736" ts="1370324882803" s="true" lb="https://antuat.fptest.co.uk/orders/17" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3149"/>
+  <httpSample t="2476" lt="908" ts="1370324883548" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="3367" lt="795" ts="1370324883548" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="842" lt="842" ts="1370324886771" s="true" lb="submit order" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="927"/>
+<httpSample t="4002" lt="731" ts="1370324884039" s="true" lb="get review order page" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="305993">
+  <httpSample t="731" lt="731" ts="1370324884039" s="true" lb="https://antuat.fptest.co.uk/orders/21" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3151"/>
+  <httpSample t="2244" lt="909" ts="1370324884778" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="3262" lt="940" ts="1370324884779" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="757" lt="757" ts="1370324887418" s="true" lb="submit order" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="927"/>
+<httpSample t="3782" lt="546" ts="1370324885120" s="true" lb="order success" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="305236">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="546" lt="546" ts="1370324885120" s="true" lb="https://antuat.fptest.co.uk/orders/16/success" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="2394"/>
+  <httpSample t="2421" lt="790" ts="1370324885677" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="3225" lt="772" ts="1370324885677" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3839" lt="728" ts="1370324885285" s="true" lb="get review order page" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="305992">
+  <httpSample t="729" lt="728" ts="1370324885285" s="true" lb="https://antuat.fptest.co.uk/orders/20" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3150"/>
+  <httpSample t="2449" lt="820" ts="1370324886022" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="3102" lt="797" ts="1370324886022" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="860" lt="860" ts="1370324888543" s="true" lb="submit order" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="927"/>
+<httpSample t="3772" lt="738" ts="1370324886414" s="true" lb="get review order page" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="305983">
+  <httpSample t="738" lt="738" ts="1370324886414" s="true" lb="https://antuat.fptest.co.uk/orders/18" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="3141"/>
+  <httpSample t="2337" lt="968" ts="1370324887161" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="3025" lt="896" ts="1370324887161" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="946" lt="946" ts="1370324889627" s="true" lb="submit order" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="927"/>
+<httpSample t="789" lt="788" ts="1370324890689" s="true" lb="submit order" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="927"/>
+<httpSample t="3727" lt="568" ts="1370324888116" s="true" lb="order success" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="305236">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="568" lt="568" ts="1370324888116" s="true" lb="https://antuat.fptest.co.uk/orders/19/success" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2394"/>
+  <httpSample t="2414" lt="936" ts="1370324888695" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="3148" lt="907" ts="1370324888695" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3922" lt="839" ts="1370324888680" s="true" lb="order success" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="305237">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="840" lt="839" ts="1370324888680" s="true" lb="https://antuat.fptest.co.uk/orders/17/success" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="2395"/>
+  <httpSample t="2268" lt="939" ts="1370324889530" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="3071" lt="944" ts="1370324889531" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4016" lt="451" ts="1370324889406" s="true" lb="Logout" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="307755">
+  <httpSample t="451" lt="451" ts="1370324889406" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="1166"/>
+  <httpSample t="439" lt="439" ts="1370324889859" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3747"/>
+  <httpSample t="2143" lt="881" ts="1370324890307" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="3115" lt="966" ts="1370324890307" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3778" lt="755" ts="1370324889907" s="true" lb="order success" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="305238">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="755" lt="755" ts="1370324889907" s="true" lb="https://antuat.fptest.co.uk/orders/21/success" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="2396"/>
+  <httpSample t="2250" lt="932" ts="1370324890669" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="3016" lt="893" ts="1370324890669" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3716" lt="565" ts="1370324891077" s="true" lb="order success" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="305239">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="565" lt="565" ts="1370324891077" s="true" lb="https://antuat.fptest.co.uk/orders/20/success" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2397"/>
+  <httpSample t="2185" lt="882" ts="1370324891653" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="3138" lt="961" ts="1370324891655" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3684" lt="611" ts="1370324891982" s="true" lb="order success" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="305235">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="611" lt="611" ts="1370324891982" s="true" lb="https://antuat.fptest.co.uk/orders/18/success" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="2393"/>
+  <httpSample t="2287" lt="787" ts="1370324892603" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="3063" lt="967" ts="1370324892603" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4128" lt="442" ts="1370324892346" s="true" lb="Logout" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="307755">
+  <httpSample t="442" lt="442" ts="1370324892346" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="1166"/>
+  <httpSample t="450" lt="449" ts="1370324892789" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3747"/>
+  <httpSample t="2336" lt="807" ts="1370324893248" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="3226" lt="953" ts="1370324893248" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3881" lt="483" ts="1370324893105" s="true" lb="Logout" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="307755">
+  <httpSample t="483" lt="483" ts="1370324893105" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="1166"/>
+  <httpSample t="447" lt="447" ts="1370324893589" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3747"/>
+  <httpSample t="2284" lt="940" ts="1370324894042" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="2943" lt="864" ts="1370324894043" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5191" lt="435" ts="1370324893926" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="307693">
+  <httpSample t="436" lt="435" ts="1370324893926" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="457" lt="457" ts="1370324894362" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3866"/>
+  <httpSample t="2319" lt="917" ts="1370324894826" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="4291" lt="779" ts="1370324894826" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4220" lt="456" ts="1370324895297" s="true" lb="Logout" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="307755">
+  <httpSample t="456" lt="456" ts="1370324895297" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="1166"/>
+  <httpSample t="517" lt="517" ts="1370324895754" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3747"/>
+  <httpSample t="2205" lt="1037" ts="1370324896286" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="3231" lt="1089" ts="1370324896286" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5848" lt="456" ts="1370324894189" s="true" lb="Logout" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="307755">
+  <httpSample t="456" lt="456" ts="1370324894189" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="1166"/>
+  <httpSample t="456" lt="456" ts="1370324894646" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3747"/>
+  <httpSample t="2375" lt="952" ts="1370324895109" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="4928" lt="936" ts="1370324895109" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="469" lt="469" ts="1370324899620" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Add New Selections 4-1" dt="text" by="1066"/>
+<httpSample t="4074" lt="557" ts="1370324896169" s="true" lb="Logout" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="307755">
+  <httpSample t="558" lt="557" ts="1370324896169" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="1166"/>
+  <httpSample t="444" lt="444" ts="1370324896727" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="3747"/>
+  <httpSample t="2223" lt="776" ts="1370324897181" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="3062" lt="806" ts="1370324897181" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3820" lt="438" ts="1370324896977" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="307693">
+  <httpSample t="438" lt="438" ts="1370324896977" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="472" lt="472" ts="1370324897416" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3866"/>
+  <httpSample t="2114" lt="917" ts="1370324897895" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="2902" lt="934" ts="1370324897895" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="555" lt="555" ts="1370324900594" s="true" lb="Open Customer details" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3417"/>
+<httpSample t="3809" lt="484" ts="1370324897488" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="307693">
+  <httpSample t="485" lt="484" ts="1370324897488" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="477" lt="477" ts="1370324897974" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3866"/>
+  <httpSample t="2161" lt="943" ts="1370324898458" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="2839" lt="910" ts="1370324898458" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="487" lt="487" ts="1370324901300" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Cancel Existing Order 3-1" dt="text" by="1066"/>
+<httpSample t="492" lt="492" ts="1370324901800" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Edit Player Details 6-1" dt="text" by="1066"/>
+<httpSample t="843" lt="843" ts="1370324901653" s="true" lb="Navigate to Entries" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="2501"/>
+<httpSample t="536" lt="536" ts="1370324902292" s="true" lb="Open Customer details" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3419"/>
+<httpSample t="526" lt="526" ts="1370324902794" s="true" lb="Open Player details" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3415"/>
+<httpSample t="3668" lt="435" ts="1370324900019" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="307693">
+  <httpSample t="435" lt="435" ts="1370324900019" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="455" lt="455" ts="1370324900456" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3866"/>
+  <httpSample t="2087" lt="915" ts="1370324900919" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="2768" lt="901" ts="1370324900919" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="821" lt="821" ts="1370324902998" s="true" lb="Select Existing Order" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3272"/>
+<httpSample t="820" lt="819" ts="1370324903331" s="true" lb="Navigate to Entries" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2500"/>
+<httpSample t="3855" lt="449" ts="1370324900540" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="307693">
+  <httpSample t="450" lt="449" ts="1370324900540" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="469" lt="468" ts="1370324900991" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3866"/>
+  <httpSample t="2119" lt="938" ts="1370324901469" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="2926" lt="959" ts="1370324901469" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="722" lt="721" ts="1370324903824" s="true" lb="Edit Player" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="9363"/>
+<httpSample t="535" lt="535" ts="1370324904190" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Edit Payment Details 2-1" dt="text" by="1072"/>
+<httpSample t="686" lt="686" ts="1370324904322" s="true" lb="Edit Selections" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3840"/>
+<httpSample t="453" lt="453" ts="1370324904897" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Edit Existing Selections 5-1" dt="text" by="1066"/>
+<httpSample t="765" lt="764" ts="1370324904655" s="true" lb="Select Order for Cancellation" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3997"/>
+<httpSample t="549" lt="549" ts="1370324905228" s="true" lb="Open Customer details" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3469"/>
+<httpSample t="1113" lt="1113" ts="1370324905853" s="true" lb="Open Customer details" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3414"/>
+<httpSample t="2822" lt="1785" ts="1370324905051" s="true" lb="Update Player Details and Confirm" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="4859">
+  <httpSample t="1785" lt="1785" ts="1370324905051" s="true" lb="https://antuat.fptest.co.uk/customers/7944688" rc="302" rm="Found" tn="" dt="text" by="1255"/>
+  <httpSample t="1035" lt="1035" ts="1370324906838" s="true" lb="https://antuat.fptest.co.uk/customers/7944688" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3604"/>
+</httpSample>
+<httpSample t="1723" lt="1723" ts="1370324906280" s="true" lb="Navigate to Play Details" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2626"/>
+<httpSample t="2836" lt="1067" ts="1370324905511" s="true" lb="Add New Selection and Confirm" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="4837">
+  <httpSample t="1067" lt="1067" ts="1370324905511" s="true" lb="https://antuat.fptest.co.uk/orders/16/line_items/15" rc="302" rm="Found" tn="" dt="text" by="1247"/>
+  <httpSample t="1768" lt="1768" ts="1370324906579" s="true" lb="https://antuat.fptest.co.uk/orders/16" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3590"/>
+</httpSample>
+<httpSample t="1169" lt="1168" ts="1370324907469" s="true" lb="Select Existing Order" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3273"/>
+<httpSample t="2885" lt="1843" ts="1370324905922" s="true" lb="Cancel the order" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3551">
+  <httpSample t="1843" lt="1843" ts="1370324905922" s="true" lb="https://antuat.fptest.co.uk/customers/7944690/orders/19/cancel" rc="302" rm="Found" tn="" dt="text" by="1073"/>
+  <httpSample t="1041" lt="1041" ts="1370324907766" s="true" lb="https://antuat.fptest.co.uk/customers/7944690/orders" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2478"/>
+</httpSample>
+<httpSample t="541" lt="541" ts="1370324908377" s="true" lb="View Player" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3371">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="816" lt="816" ts="1370324908507" s="true" lb="Edit Bank Account Details" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2728"/>
+<httpSample t="713" lt="713" ts="1370324908851" s="true" lb="View Orders" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3327">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="796" lt="795" ts="1370324909141" s="true" lb="Edit Selections" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3837"/>
+<httpSample t="832" lt="831" ts="1370324909311" s="true" lb="View Entries" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2478">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1855" lt="1004" ts="1370324909827" s="true" lb="Post new Bank Account details" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3713">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1005" lt="1004" ts="1370324909827" s="true" lb="https://antuat.fptest.co.uk/customers/7944691/payment_methods/19" rc="302" rm="Found" tn="" dt="text" by="1085"/>
+  <httpSample t="849" lt="849" ts="1370324910833" s="true" lb="https://antuat.fptest.co.uk/customers/7944691/payments" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2628"/>
+</httpSample>
+<httpSample t="1805" lt="788" ts="1370324910440" s="true" lb="Update Selection and Confirm" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="4781">
+  <httpSample t="788" lt="788" ts="1370324910440" s="true" lb="https://antuat.fptest.co.uk/orders/21/line_items/17" rc="302" rm="Found" tn="" dt="text" by="1247"/>
+  <httpSample t="1016" lt="1016" ts="1370324911229" s="true" lb="https://antuat.fptest.co.uk/orders/21" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3534"/>
+</httpSample>
+<httpSample t="806" lt="806" ts="1370324912185" s="true" lb="View Play Details" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2628">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3956" lt="518" ts="1370324909422" s="true" lb="Logout" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="307499">
+  <httpSample t="518" lt="518" ts="1370324909422" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="910"/>
+  <httpSample t="461" lt="460" ts="1370324909941" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3747"/>
+  <httpSample t="2739" lt="966" ts="1370324910408" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="2970" lt="890" ts="1370324910408" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="760" lt="760" ts="1370324912749" s="true" lb="View Orders" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3271">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="4125" lt="464" ts="1370324910068" s="true" lb="Logout" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="307499">
+  <httpSample t="464" lt="464" ts="1370324910068" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="910"/>
+  <httpSample t="472" lt="472" ts="1370324910534" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3747"/>
+  <httpSample t="2745" lt="945" ts="1370324911016" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="3177" lt="773" ts="1370324911016" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3918" lt="454" ts="1370324910646" s="true" lb="Logout" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="307499">
+  <httpSample t="455" lt="454" ts="1370324910646" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="910"/>
+  <httpSample t="431" lt="431" ts="1370324911102" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3747"/>
+  <httpSample t="2283" lt="998" ts="1370324911540" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="3024" lt="997" ts="1370324911540" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3817" lt="438" ts="1370324913494" s="true" lb="Logout" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="307499">
+  <httpSample t="438" lt="438" ts="1370324913494" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="910"/>
+  <httpSample t="457" lt="457" ts="1370324913932" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3747"/>
+  <httpSample t="2085" lt="920" ts="1370324914395" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="2916" lt="911" ts="1370324914395" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3877" lt="446" ts="1370324914012" s="true" lb="Logout" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="307499">
+  <httpSample t="446" lt="446" ts="1370324914012" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="910"/>
+  <httpSample t="428" lt="427" ts="1370324914460" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3747"/>
+  <httpSample t="2159" lt="786" ts="1370324914897" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="2992" lt="929" ts="1370324914897" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+
+<httpSample t="3043" lt="768" ts="1370325578716" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="307693">
+  <httpSample t="768" lt="768" ts="1370325578716" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="488" lt="487" ts="1370325579485" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3866"/>
+  <httpSample t="1617" lt="899" ts="1370325579980" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1779" lt="902" ts="1370325579980" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3086" lt="779" ts="1370325578705" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="307693">
+  <httpSample t="779" lt="779" ts="1370325578705" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="549" lt="549" ts="1370325579485" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="3866"/>
+  <httpSample t="1671" lt="782" ts="1370325580041" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="1750" lt="740" ts="1370325580041" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3110" lt="770" ts="1370325578712" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="307693">
+  <httpSample t="770" lt="770" ts="1370325578712" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="468" lt="467" ts="1370325579483" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3866"/>
+  <httpSample t="1734" lt="800" ts="1370325579957" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1865" lt="930" ts="1370325579957" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3114" lt="752" ts="1370325578710" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="307693">
+  <httpSample t="752" lt="752" ts="1370325578710" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="431" lt="431" ts="1370325579464" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3866"/>
+  <httpSample t="1697" lt="939" ts="1370325579902" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1922" lt="898" ts="1370325579902" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3117" lt="753" ts="1370325578715" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="307693">
+  <httpSample t="753" lt="753" ts="1370325578715" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="447" lt="447" ts="1370325579469" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3866"/>
+  <httpSample t="1602" lt="871" ts="1370325579923" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1908" lt="953" ts="1370325579924" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3201" lt="776" ts="1370325578716" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="307693">
+  <httpSample t="776" lt="776" ts="1370325578716" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="468" lt="468" ts="1370325579492" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3866"/>
+  <httpSample t="1672" lt="916" ts="1370325579970" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1947" lt="764" ts="1370325579970" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="568" lt="568" ts="1370325582262" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Edit Player Details 6-1" dt="text" by="1030"/>
+<httpSample t="539" lt="539" ts="1370325582294" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Place a New Order 1-1" dt="text" by="1030"/>
+<httpSample t="598" lt="598" ts="1370325582325" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Cancel Existing Order 3-1" dt="text" by="1030"/>
+<httpSample t="603" lt="603" ts="1370325582326" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Edit Payment Details 2-1" dt="text" by="1030"/>
+<httpSample t="693" lt="693" ts="1370325582334" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Add New Selections 4-1" dt="text" by="1030"/>
+<httpSample t="612" lt="612" ts="1370325582419" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Edit Existing Selections 5-1" dt="text" by="1030"/>
+<httpSample t="2440" lt="659" ts="1370325583432" s="true" lb="get new Customer Form" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="310079">
+  <httpSample t="660" lt="659" ts="1370325583432" s="true" lb="https://antuat.fptest.co.uk/customers/new?title=Mr&amp;first_names=Performance&amp;surname=Tester&amp;address[address_line1]=203%20KENTS%20HILL%20RD&amp;address[address_line2]=Baker%20Street&amp;address[address_line3]=221B&amp;address[address_line4]=221b&amp;address[post_code]=NE12JQ&amp;telephones[daytime][number]=0101010101&amp;telephones[evening][number]=0202020202&amp;telephones[mobile][number]=0707070707&amp;dob_year=1984&amp;dob_month=10&amp;dob_day=09&amp;email_address=abc.xyz@gmail.com&amp;segment=881757" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="6823"/>
+  <httpSample t="1620" lt="756" ts="1370325584102" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1771" lt="899" ts="1370325584101" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+  <httpSample t="798" lt="798" ts="1370325584102" s="true" lb="https://antuat.fptest.co.uk/assets/setup_dupe_checker-dba65719b737111ff743f49eb68c0068.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="414"/>
+</httpSample>
+<httpSample t="2543" lt="690" ts="1370325583333" s="true" lb="get new Customer Form" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="310082">
+  <httpSample t="690" lt="690" ts="1370325583333" s="true" lb="https://antuat.fptest.co.uk/customers/new?title=Mr&amp;first_names=Performance&amp;surname=Tester&amp;address[address_line1]=203%20KENTS%20HILL%20RD&amp;address[address_line2]=Baker%20Street&amp;address[address_line3]=221B&amp;address[address_line4]=221b&amp;address[post_code]=NE12JQ&amp;telephones[daytime][number]=0101010101&amp;telephones[evening][number]=0202020202&amp;telephones[mobile][number]=0707070707&amp;dob_year=1984&amp;dob_month=10&amp;dob_day=09&amp;email_address=abc.xyz@gmail.com&amp;segment=881757" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="6826"/>
+  <httpSample t="1669" lt="772" ts="1370325584040" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1836" lt="863" ts="1370325584040" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+  <httpSample t="760" lt="759" ts="1370325584040" s="true" lb="https://antuat.fptest.co.uk/assets/setup_dupe_checker-dba65719b737111ff743f49eb68c0068.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="414"/>
+</httpSample>
+<httpSample t="2396" lt="602" ts="1370325583534" s="true" lb="get new Customer Form" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="310080">
+  <httpSample t="602" lt="602" ts="1370325583534" s="true" lb="https://antuat.fptest.co.uk/customers/new?title=Mr&amp;first_names=Performance&amp;surname=Tester&amp;address[address_line1]=203%20KENTS%20HILL%20RD&amp;address[address_line2]=Baker%20Street&amp;address[address_line3]=221B&amp;address[address_line4]=221b&amp;address[post_code]=NE12JQ&amp;telephones[daytime][number]=0101010101&amp;telephones[evening][number]=0202020202&amp;telephones[mobile][number]=0707070707&amp;dob_year=1984&amp;dob_month=10&amp;dob_day=09&amp;email_address=abc.xyz@gmail.com&amp;segment=881757" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="6824"/>
+  <httpSample t="1627" lt="763" ts="1370325584147" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1781" lt="909" ts="1370325584149" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+  <httpSample t="797" lt="797" ts="1370325584148" s="true" lb="https://antuat.fptest.co.uk/assets/setup_dupe_checker-dba65719b737111ff743f49eb68c0068.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="414"/>
+</httpSample>
+<httpSample t="2638" lt="699" ts="1370325583356" s="true" lb="get new Customer Form" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="310081">
+  <httpSample t="699" lt="699" ts="1370325583356" s="true" lb="https://antuat.fptest.co.uk/customers/new?title=Mr&amp;first_names=Performance&amp;surname=Tester&amp;address[address_line1]=203%20KENTS%20HILL%20RD&amp;address[address_line2]=Baker%20Street&amp;address[address_line3]=221B&amp;address[address_line4]=221b&amp;address[post_code]=NE12JQ&amp;telephones[daytime][number]=0101010101&amp;telephones[evening][number]=0202020202&amp;telephones[mobile][number]=0707070707&amp;dob_year=1984&amp;dob_month=10&amp;dob_day=09&amp;email_address=abc.xyz@gmail.com&amp;segment=881757" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="6825"/>
+  <httpSample t="1608" lt="901" ts="1370325584066" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="1929" lt="772" ts="1370325584065" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+  <httpSample t="729" lt="729" ts="1370325584065" s="true" lb="https://antuat.fptest.co.uk/assets/setup_dupe_checker-dba65719b737111ff743f49eb68c0068.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="414"/>
+</httpSample>
+<httpSample t="2639" lt="714" ts="1370325583426" s="true" lb="get new Customer Form" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="310079">
+  <httpSample t="714" lt="714" ts="1370325583426" s="true" lb="https://antuat.fptest.co.uk/customers/new?title=Mr&amp;first_names=Performance&amp;surname=Tester&amp;address[address_line1]=203%20KENTS%20HILL%20RD&amp;address[address_line2]=Baker%20Street&amp;address[address_line3]=221B&amp;address[address_line4]=221b&amp;address[post_code]=NE12JQ&amp;telephones[daytime][number]=0101010101&amp;telephones[evening][number]=0202020202&amp;telephones[mobile][number]=0707070707&amp;dob_year=1984&amp;dob_month=10&amp;dob_day=09&amp;email_address=abc.xyz@gmail.com&amp;segment=881757" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="6823"/>
+  <httpSample t="1646" lt="915" ts="1370325584156" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1909" lt="906" ts="1370325584156" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+  <httpSample t="792" lt="792" ts="1370325584156" s="true" lb="https://antuat.fptest.co.uk/assets/setup_dupe_checker-dba65719b737111ff743f49eb68c0068.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="414"/>
+</httpSample>
+<httpSample t="2535" lt="575" ts="1370325583530" s="true" lb="get new Customer Form" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="310082">
+  <httpSample t="720" lt="575" ts="1370325583530" s="true" lb="https://antuat.fptest.co.uk/customers/new?title=Mr&amp;first_names=Performance&amp;surname=Tester&amp;address[address_line1]=203%20KENTS%20HILL%20RD&amp;address[address_line2]=Baker%20Street&amp;address[address_line3]=221B&amp;address[address_line4]=221b&amp;address[post_code]=NE12JQ&amp;telephones[daytime][number]=0101010101&amp;telephones[evening][number]=0202020202&amp;telephones[mobile][number]=0707070707&amp;dob_year=1984&amp;dob_month=10&amp;dob_day=09&amp;email_address=abc.xyz@gmail.com&amp;segment=881757" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="6826"/>
+  <httpSample t="1559" lt="725" ts="1370325584261" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1804" lt="905" ts="1370325584261" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+  <httpSample t="745" lt="744" ts="1370325584261" s="true" lb="https://antuat.fptest.co.uk/assets/setup_dupe_checker-dba65719b737111ff743f49eb68c0068.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="414"/>
+</httpSample>
+<httpSample t="4805" lt="1093" ts="1370325586375" s="true" lb="post new Customer details" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="306624">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1093" lt="1093" ts="1370325586375" s="true" lb="https://antuat.fptest.co.uk/customers" rc="302" rm="Found" tn="" dt="text" by="1283"/>
+  <httpSample t="1856" lt="1855" ts="1370325587468" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944694&amp;segment_code=881757" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2499"/>
+  <httpSample t="1660" lt="924" ts="1370325589330" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1849" lt="731" ts="1370325589331" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4986" lt="1940" ts="1370325586431" s="true" lb="post new Customer details" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="306625">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1940" lt="1940" ts="1370325586431" s="true" lb="https://antuat.fptest.co.uk/customers" rc="302" rm="Found" tn="" dt="text" by="1283"/>
+  <httpSample t="1237" lt="1237" ts="1370325588372" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944696&amp;segment_code=881757" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="2500"/>
+  <httpSample t="1600" lt="892" ts="1370325589616" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1801" lt="918" ts="1370325589616" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4881" lt="2230" ts="1370325586567" s="true" lb="post new Customer details" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="306622">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="2230" lt="2230" ts="1370325586567" s="true" lb="https://antuat.fptest.co.uk/customers" rc="302" rm="Found" tn="" dt="text" by="1283"/>
+  <httpSample t="718" lt="717" ts="1370325588798" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944697&amp;segment_code=881757" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2497"/>
+  <httpSample t="1732" lt="805" ts="1370325589523" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1925" lt="763" ts="1370325589523" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5085" lt="1460" ts="1370325586400" s="true" lb="post new Customer details" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="306626">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1460" lt="1460" ts="1370325586400" s="true" lb="https://antuat.fptest.co.uk/customers" rc="302" rm="Found" tn="" dt="text" by="1283"/>
+  <httpSample t="1568" lt="1568" ts="1370325587861" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944695&amp;segment_code=881757" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="2501"/>
+  <httpSample t="1476" lt="889" ts="1370325589436" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="2049" lt="799" ts="1370325589436" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5391" lt="2684" ts="1370325586497" s="true" lb="post new Customer details" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="306624">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="2684" lt="2684" ts="1370325586497" s="true" lb="https://antuat.fptest.co.uk/customers" rc="302" rm="Found" tn="" dt="text" by="1283"/>
+  <httpSample t="575" lt="575" ts="1370325589182" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944698&amp;segment_code=881757" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="2499"/>
+  <httpSample t="1607" lt="891" ts="1370325589765" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="2123" lt="925" ts="1370325589765" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5513" lt="3115" ts="1370325586567" s="true" lb="post new Customer details" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="306625">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="3115" lt="3115" ts="1370325586567" s="true" lb="https://antuat.fptest.co.uk/customers" rc="302" rm="Found" tn="" dt="text" by="1283"/>
+  <httpSample t="512" lt="512" ts="1370325589682" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944699&amp;segment_code=881757" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="2500"/>
+  <httpSample t="1856" lt="946" ts="1370325590201" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1879" lt="888" ts="1370325590201" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2545" lt="519" ts="1370325591683" s="true" lb="get Select Subscriptions page" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="305098">
+  <httpSample t="519" lt="519" ts="1370325591683" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944694&amp;segment_code=881757" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2256"/>
+  <httpSample t="1717" lt="902" ts="1370325592212" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="2016" lt="928" ts="1370325592212" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2489" lt="596" ts="1370325591988" s="true" lb="get Select Subscriptions page" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="305100">
+  <httpSample t="597" lt="596" ts="1370325591988" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944695&amp;segment_code=881757" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="2258"/>
+  <httpSample t="1819" lt="1031" ts="1370325592591" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1886" lt="874" ts="1370325592591" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2561" lt="564" ts="1370325591920" s="true" lb="get Select Subscriptions page" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="305099">
+  <httpSample t="564" lt="564" ts="1370325591920" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944696&amp;segment_code=881757" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="2257"/>
+  <httpSample t="1778" lt="796" ts="1370325592491" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1990" lt="741" ts="1370325592491" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2599" lt="603" ts="1370325591951" s="true" lb="get Select Subscriptions page" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="305096">
+  <httpSample t="603" lt="603" ts="1370325591951" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944697&amp;segment_code=881757" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2254"/>
+  <httpSample t="1670" lt="764" ts="1370325592561" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1989" lt="918" ts="1370325592561" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2430" lt="560" ts="1370325592391" s="true" lb="get Select Subscriptions page" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="305099">
+  <httpSample t="560" lt="560" ts="1370325592391" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944698&amp;segment_code=881757" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="2257"/>
+  <httpSample t="1673" lt="962" ts="1370325592959" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="1862" lt="979" ts="1370325592959" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2490" lt="519" ts="1370325592583" s="true" lb="get Select Subscriptions page" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="305100">
+  <httpSample t="519" lt="519" ts="1370325592583" s="true" lb="https://antuat.fptest.co.uk/catalog?customer_id=7944699&amp;segment_code=881757" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="2258"/>
+  <httpSample t="1713" lt="975" ts="1370325593114" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1959" lt="814" ts="1370325593114" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2887" lt="488" ts="1370325594734" s="true" lb="post Order Subscription" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="314436">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="488" lt="488" ts="1370325594734" s="true" lb="https://antuat.fptest.co.uk/orders?customer_id=7944694&amp;segment_code=881757" rc="302" rm="Found" tn="" dt="text" by="1081"/>
+  <httpSample t="571" lt="570" ts="1370325595223" s="true" lb="https://antuat.fptest.co.uk/orders/23/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3492"/>
+  <httpSample t="1519" lt="913" ts="1370325595803" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1818" lt="762" ts="1370325595803" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+  <httpSample t="930" lt="930" ts="1370325595804" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="bin" by="5929"/>
+  <httpSample t="740" lt="740" ts="1370325595804" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="2814" lt="503" ts="1370325594979" s="true" lb="post Order Subscription" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="314433">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="503" lt="503" ts="1370325594979" s="true" lb="https://antuat.fptest.co.uk/orders?customer_id=7944695&amp;segment_code=881757" rc="302" rm="Found" tn="" dt="text" by="1081"/>
+  <httpSample t="524" lt="524" ts="1370325595483" s="true" lb="https://antuat.fptest.co.uk/orders/24/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3489"/>
+  <httpSample t="1602" lt="875" ts="1370325596017" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1777" lt="892" ts="1370325596016" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+  <httpSample t="901" lt="900" ts="1370325596017" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="bin" by="5929"/>
+  <httpSample t="799" lt="799" ts="1370325596017" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="2897" lt="535" ts="1370325594983" s="true" lb="post Order Subscription" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="314438">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="535" lt="535" ts="1370325594983" s="true" lb="https://antuat.fptest.co.uk/orders?customer_id=7944696&amp;segment_code=881757" rc="302" rm="Found" tn="" dt="text" by="1081"/>
+  <httpSample t="572" lt="571" ts="1370325595519" s="true" lb="https://antuat.fptest.co.uk/orders/25/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3494"/>
+  <httpSample t="1680" lt="919" ts="1370325596103" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1777" lt="903" ts="1370325596103" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+  <httpSample t="941" lt="941" ts="1370325596103" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="bin" by="5929"/>
+  <httpSample t="725" lt="725" ts="1370325596103" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="3012" lt="492" ts="1370325595053" s="true" lb="post Order Subscription" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="314438">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="493" lt="492" ts="1370325595053" s="true" lb="https://antuat.fptest.co.uk/orders?customer_id=7944697&amp;segment_code=881757" rc="302" rm="Found" tn="" dt="text" by="1081"/>
+  <httpSample t="639" lt="639" ts="1370325595547" s="true" lb="https://antuat.fptest.co.uk/orders/26/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3494"/>
+  <httpSample t="1597" lt="874" ts="1370325596196" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1869" lt="941" ts="1370325596196" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+  <httpSample t="887" lt="887" ts="1370325596197" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="bin" by="5929"/>
+  <httpSample t="734" lt="734" ts="1370325596197" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="2800" lt="521" ts="1370325595323" s="true" lb="post Order Subscription" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="314444">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="521" lt="521" ts="1370325595323" s="true" lb="https://antuat.fptest.co.uk/orders?customer_id=7944698&amp;segment_code=881757" rc="302" rm="Found" tn="" dt="text" by="1081"/>
+  <httpSample t="530" lt="530" ts="1370325595844" s="true" lb="https://antuat.fptest.co.uk/orders/27/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="3500"/>
+  <httpSample t="1623" lt="902" ts="1370325596383" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="1739" lt="741" ts="1370325596384" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+  <httpSample t="859" lt="859" ts="1370325596384" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Place a New Order 1-1" dt="bin" by="5929"/>
+  <httpSample t="789" lt="789" ts="1370325596385" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Place a New Order 1-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="3110" lt="592" ts="1370325595576" s="true" lb="post Order Subscription" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="314442">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="592" lt="592" ts="1370325595576" s="true" lb="https://antuat.fptest.co.uk/orders?customer_id=7944699&amp;segment_code=881757" rc="302" rm="Found" tn="" dt="text" by="1081"/>
+  <httpSample t="506" lt="506" ts="1370325596169" s="true" lb="https://antuat.fptest.co.uk/orders/28/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3498"/>
+  <httpSample t="1669" lt="779" ts="1370325596685" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="2001" lt="807" ts="1370325596685" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+  <httpSample t="939" lt="939" ts="1370325596685" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Add New Selections 4-1" dt="bin" by="5929"/>
+  <httpSample t="797" lt="797" ts="1370325596685" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Add New Selections 4-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="2382" lt="522" ts="1370325598124" s="true" lb="get new line item" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="313355">
+  <httpSample t="523" lt="522" ts="1370325598124" s="true" lb="https://antuat.fptest.co.uk/orders/23/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3492"/>
+  <httpSample t="1556" lt="869" ts="1370325598659" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1846" lt="938" ts="1370325598660" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+  <httpSample t="937" lt="936" ts="1370325598659" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="bin" by="5929"/>
+  <httpSample t="750" lt="750" ts="1370325598660" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="2344" lt="518" ts="1370325598383" s="true" lb="get new line item" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="313357">
+  <httpSample t="518" lt="518" ts="1370325598383" s="true" lb="https://antuat.fptest.co.uk/orders/25/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3494"/>
+  <httpSample t="1636" lt="764" ts="1370325598914" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1813" lt="775" ts="1370325598914" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+  <httpSample t="874" lt="874" ts="1370325598915" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="bin" by="5929"/>
+  <httpSample t="730" lt="730" ts="1370325598915" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="2458" lt="497" ts="1370325598295" s="true" lb="get new line item" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="313352">
+  <httpSample t="498" lt="497" ts="1370325598295" s="true" lb="https://antuat.fptest.co.uk/orders/24/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3489"/>
+  <httpSample t="1642" lt="910" ts="1370325598806" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1948" lt="914" ts="1370325598805" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+  <httpSample t="923" lt="923" ts="1370325598805" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="bin" by="5929"/>
+  <httpSample t="770" lt="770" ts="1370325598806" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="2467" lt="497" ts="1370325598567" s="true" lb="get new line item" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="313357">
+  <httpSample t="497" lt="497" ts="1370325598567" s="true" lb="https://antuat.fptest.co.uk/orders/26/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3494"/>
+  <httpSample t="1468" lt="1035" ts="1370325599075" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1960" lt="782" ts="1370325599074" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+  <httpSample t="897" lt="897" ts="1370325599075" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="bin" by="5929"/>
+  <httpSample t="797" lt="797" ts="1370325599075" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="2437" lt="512" ts="1370325598626" s="true" lb="get new line item" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="313363">
+  <httpSample t="513" lt="512" ts="1370325598626" s="true" lb="https://antuat.fptest.co.uk/orders/27/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="3500"/>
+  <httpSample t="1742" lt="748" ts="1370325599152" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="1911" lt="765" ts="1370325599152" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+  <httpSample t="952" lt="800" ts="1370325599153" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Place a New Order 1-1" dt="bin" by="5929"/>
+  <httpSample t="763" lt="763" ts="1370325599152" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Place a New Order 1-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="2355" lt="510" ts="1370325599189" s="true" lb="get new line item" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="313361">
+  <httpSample t="510" lt="510" ts="1370325599189" s="true" lb="https://antuat.fptest.co.uk/orders/28/line_items/new?product_offering_id=5" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3498"/>
+  <httpSample t="1827" lt="1068" ts="1370325599717" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1825" lt="919" ts="1370325599716" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+  <httpSample t="943" lt="943" ts="1370325599716" s="true" lb="https://antuat.fptest.co.uk/assets/grid-de0070a84e37b1a773e02e2f89e24a25.png" rc="200" rm="OK" tn="Add New Selections 4-1" dt="bin" by="5929"/>
+  <httpSample t="754" lt="754" ts="1370325599717" s="true" lb="https://antuat.fptest.co.uk/assets/recycle-bin-9a94d2221ac89718f06c4b0ba480899a.png" rc="200" rm="OK" tn="Add New Selections 4-1" dt="bin" by="1092"/>
+</httpSample>
+<httpSample t="3981" lt="708" ts="1370325601230" s="true" lb="post entries" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="306635">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="708" lt="708" ts="1370325601230" s="true" lb="https://antuat.fptest.co.uk/orders/25/line_items" rc="302" rm="Found" tn="" dt="text" by="1047"/>
+  <httpSample t="1602" lt="1602" ts="1370325601939" s="true" lb="https://antuat.fptest.co.uk/orders/25/payment_methods/new" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="2746"/>
+  <httpSample t="1472" lt="892" ts="1370325603548" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1663" lt="850" ts="1370325603548" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4232" lt="639" ts="1370325601009" s="true" lb="post entries" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="306635">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="639" lt="639" ts="1370325601009" s="true" lb="https://antuat.fptest.co.uk/orders/23/line_items" rc="302" rm="Found" tn="" dt="text" by="1047"/>
+  <httpSample t="1819" lt="1818" ts="1370325601649" s="true" lb="https://antuat.fptest.co.uk/orders/23/payment_methods/new" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2746"/>
+  <httpSample t="1540" lt="718" ts="1370325603475" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1767" lt="757" ts="1370325603474" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4850" lt="732" ts="1370325601256" s="true" lb="post entries" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="306635">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="732" lt="732" ts="1370325601256" s="true" lb="https://antuat.fptest.co.uk/orders/24/line_items" rc="302" rm="Found" tn="" dt="text" by="1047"/>
+  <httpSample t="2166" lt="2165" ts="1370325601989" s="true" lb="https://antuat.fptest.co.uk/orders/24/payment_methods/new" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="2746"/>
+  <httpSample t="1635" lt="909" ts="1370325604165" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1941" lt="914" ts="1370325604165" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4783" lt="1156" ts="1370325601578" s="true" lb="post entries" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="306635">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1156" lt="1156" ts="1370325601578" s="true" lb="https://antuat.fptest.co.uk/orders/27/line_items" rc="302" rm="Found" tn="" dt="text" by="1047"/>
+  <httpSample t="1903" lt="1902" ts="1370325602735" s="true" lb="https://antuat.fptest.co.uk/orders/27/payment_methods/new" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="2746"/>
+  <httpSample t="1660" lt="922" ts="1370325604645" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="1716" lt="870" ts="1370325604645" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4957" lt="1319" ts="1370325601578" s="true" lb="post entries" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="306632">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1319" lt="1319" ts="1370325601578" s="true" lb="https://antuat.fptest.co.uk/orders/26/line_items" rc="302" rm="Found" tn="" dt="text" by="1047"/>
+  <httpSample t="1774" lt="1773" ts="1370325602898" s="true" lb="https://antuat.fptest.co.uk/orders/26/payment_methods/new" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2743"/>
+  <httpSample t="1628" lt="893" ts="1370325604679" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1856" lt="938" ts="1370325604679" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4888" lt="2226" ts="1370325602047" s="true" lb="post entries" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="306636">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="2226" lt="2226" ts="1370325602047" s="true" lb="https://antuat.fptest.co.uk/orders/28/line_items" rc="302" rm="Found" tn="" dt="text" by="1047"/>
+  <httpSample t="757" lt="757" ts="1370325604275" s="true" lb="https://antuat.fptest.co.uk/orders/28/payment_methods/new" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="2747"/>
+  <httpSample t="1560" lt="947" ts="1370325605039" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1896" lt="951" ts="1370325605039" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2625" lt="890" ts="1370325605714" s="true" lb="get new payment details form" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="305588">
+  <httpSample t="890" lt="890" ts="1370325605714" s="true" lb="https://antuat.fptest.co.uk/orders/25/payment_methods/new" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="2746"/>
+  <httpSample t="1633" lt="760" ts="1370325606611" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1728" lt="742" ts="1370325606611" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2782" lt="878" ts="1370325605744" s="true" lb="get new payment details form" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="305588">
+  <httpSample t="878" lt="878" ts="1370325605744" s="true" lb="https://antuat.fptest.co.uk/orders/23/payment_methods/new" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2746"/>
+  <httpSample t="1673" lt="940" ts="1370325606628" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1897" lt="898" ts="1370325606629" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2799" lt="859" ts="1370325606865" s="true" lb="get new payment details form" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="305588">
+  <httpSample t="859" lt="859" ts="1370325606865" s="true" lb="https://antuat.fptest.co.uk/orders/27/payment_methods/new" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="2746"/>
+  <httpSample t="1666" lt="766" ts="1370325607731" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="1933" lt="745" ts="1370325607731" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3265" lt="788" ts="1370325606609" s="true" lb="get new payment details form" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="305588">
+  <httpSample t="788" lt="788" ts="1370325606609" s="true" lb="https://antuat.fptest.co.uk/orders/24/payment_methods/new" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="2746"/>
+  <httpSample t="1690" lt="909" ts="1370325607404" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="2470" lt="795" ts="1370325607404" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2935" lt="904" ts="1370325607039" s="true" lb="get new payment details form" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="305585">
+  <httpSample t="904" lt="904" ts="1370325607039" s="true" lb="https://antuat.fptest.co.uk/orders/26/payment_methods/new" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2743"/>
+  <httpSample t="1753" lt="782" ts="1370325607950" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="2024" lt="778" ts="1370325607950" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5286" lt="743" ts="1370325607437" s="true" lb="get new payment details form" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="305589">
+  <httpSample t="743" lt="743" ts="1370325607437" s="true" lb="https://antuat.fptest.co.uk/orders/28/payment_methods/new" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="2747"/>
+  <httpSample t="3623" lt="1447" ts="1370325608187" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="4536" lt="1447" ts="1370325608187" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5852" lt="1867" ts="1370325609028" s="true" lb="post payment details" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="306990">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1868" lt="1867" ts="1370325609028" s="true" lb="https://antuat.fptest.co.uk/orders/23/payment_methods" rc="302" rm="Found" tn="" dt="text" by="1007"/>
+  <httpSample t="2118" lt="2117" ts="1370325610897" s="true" lb="https://antuat.fptest.co.uk/orders/23" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3141"/>
+  <httpSample t="1689" lt="784" ts="1370325613022" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1858" lt="741" ts="1370325613022" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5216" lt="2019" ts="1370325610376" s="true" lb="post payment details" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="306991">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="2019" lt="2019" ts="1370325610376" s="true" lb="https://antuat.fptest.co.uk/orders/24/payment_methods" rc="302" rm="Found" tn="" dt="text" by="1007"/>
+  <httpSample t="1338" lt="1338" ts="1370325612396" s="true" lb="https://antuat.fptest.co.uk/orders/24" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3142"/>
+  <httpSample t="1662" lt="764" ts="1370325613741" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1851" lt="874" ts="1370325613741" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="7034" lt="1750" ts="1370325608841" s="true" lb="post payment details" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="307001">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1751" lt="1750" ts="1370325608841" s="true" lb="https://antuat.fptest.co.uk/orders/25/payment_methods" rc="302" rm="Found" tn="" dt="text" by="1007"/>
+  <httpSample t="2062" lt="2062" ts="1370325610593" s="true" lb="https://antuat.fptest.co.uk/orders/25" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3152"/>
+  <httpSample t="2104" lt="747" ts="1370325612662" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="3213" lt="826" ts="1370325612662" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5814" lt="1743" ts="1370325610167" s="true" lb="post payment details" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="307002">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1744" lt="1743" ts="1370325610167" s="true" lb="https://antuat.fptest.co.uk/orders/27/payment_methods" rc="302" rm="Found" tn="" dt="text" by="1007"/>
+  <httpSample t="2116" lt="2116" ts="1370325611912" s="true" lb="https://antuat.fptest.co.uk/orders/27" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="3153"/>
+  <httpSample t="1620" lt="914" ts="1370325614036" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="1946" lt="917" ts="1370325614035" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="5677" lt="2647" ts="1370325610477" s="true" lb="post payment details" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="306997">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="2647" lt="2647" ts="1370325610477" s="true" lb="https://antuat.fptest.co.uk/orders/26/payment_methods" rc="302" rm="Found" tn="" dt="text" by="1007"/>
+  <httpSample t="1136" lt="1136" ts="1370325613125" s="true" lb="https://antuat.fptest.co.uk/orders/26" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3148"/>
+  <httpSample t="1668" lt="929" ts="1370325614269" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1885" lt="956" ts="1370325614269" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="9297" lt="1402" ts="1370325613226" s="true" lb="post payment details" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="307002">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1403" lt="1402" ts="1370325613226" s="true" lb="https://antuat.fptest.co.uk/orders/28/payment_methods" rc="302" rm="Found" tn="" dt="text" by="1007"/>
+  <httpSample t="6212" lt="6212" ts="1370325614629" s="true" lb="https://antuat.fptest.co.uk/orders/28" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3153"/>
+  <httpSample t="1609" lt="905" ts="1370325620854" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1669" lt="847" ts="1370325620854" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="7323" lt="5457" ts="1370325615384" s="true" lb="get review order page" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="305983">
+  <httpSample t="5457" lt="5457" ts="1370325615384" s="true" lb="https://antuat.fptest.co.uk/orders/23" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3141"/>
+  <httpSample t="1632" lt="910" ts="1370325620853" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1853" lt="916" ts="1370325620854" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="7508" lt="5523" ts="1370325616096" s="true" lb="get review order page" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="305984">
+  <httpSample t="5523" lt="5523" ts="1370325616096" s="true" lb="https://antuat.fptest.co.uk/orders/24" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3142"/>
+  <httpSample t="1557" lt="948" ts="1370325621626" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1978" lt="927" ts="1370325621626" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="8167" lt="6329" ts="1370325616378" s="true" lb="get review order page" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="305994">
+  <httpSample t="6329" lt="6329" ts="1370325616378" s="true" lb="https://antuat.fptest.co.uk/orders/25" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3152"/>
+  <httpSample t="1607" lt="893" ts="1370325622714" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1831" lt="926" ts="1370325622714" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="1364" lt="1364" ts="1370325623209" s="true" lb="submit order" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="927"/>
+<httpSample t="8620" lt="6731" ts="1370325616484" s="true" lb="get review order page" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="305995">
+  <httpSample t="6731" lt="6731" ts="1370325616484" s="true" lb="https://antuat.fptest.co.uk/orders/27" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="3153"/>
+  <httpSample t="1427" lt="724" ts="1370325623225" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="1879" lt="744" ts="1370325623225" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="1247" lt="1246" ts="1370325624106" s="true" lb="submit order" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="927"/>
+<httpSample t="9077" lt="6947" ts="1370325616657" s="true" lb="get review order page" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="305990">
+  <httpSample t="6947" lt="6947" ts="1370325616657" s="true" lb="https://antuat.fptest.co.uk/orders/26" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3148"/>
+  <httpSample t="1716" lt="804" ts="1370325623612" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="2122" lt="794" ts="1370325623612" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3005" lt="1127" ts="1370325623025" s="true" lb="get review order page" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="305995">
+  <httpSample t="1128" lt="1127" ts="1370325623025" s="true" lb="https://antuat.fptest.co.uk/orders/28" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3153"/>
+  <httpSample t="1626" lt="915" ts="1370325624160" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1870" lt="734" ts="1370325624160" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="1278" lt="1278" ts="1370325625047" s="true" lb="submit order" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="927"/>
+<httpSample t="1732" lt="1732" ts="1370325625607" s="true" lb="submit order" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="927"/>
+<httpSample t="1914" lt="1914" ts="1370325626238" s="true" lb="submit order" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="927"/>
+<httpSample t="3607" lt="1596" ts="1370325625078" s="true" lb="order success" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="305237">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1596" lt="1596" ts="1370325625078" s="true" lb="https://antuat.fptest.co.uk/orders/23/success" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2395"/>
+  <httpSample t="1725" lt="802" ts="1370325626683" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="2002" lt="794" ts="1370325626683" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2293" lt="2293" ts="1370325626532" s="true" lb="submit order" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="927"/>
+<httpSample t="3717" lt="1772" ts="1370325625855" s="true" lb="order success" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="305239">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1772" lt="1772" ts="1370325625855" s="true" lb="https://antuat.fptest.co.uk/orders/24/success" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="2397"/>
+  <httpSample t="1687" lt="934" ts="1370325627639" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1933" lt="909" ts="1370325627639" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="4056" lt="2086" ts="1370325626829" s="true" lb="order success" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="305237">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="2087" lt="2086" ts="1370325626829" s="true" lb="https://antuat.fptest.co.uk/orders/25/success" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="2395"/>
+  <httpSample t="1500" lt="912" ts="1370325628927" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1959" lt="923" ts="1370325628926" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3236" lt="1191" ts="1370325627844" s="true" lb="order success" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="305238">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1191" lt="1191" ts="1370325627844" s="true" lb="https://antuat.fptest.co.uk/orders/27/success" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="2396"/>
+  <httpSample t="1691" lt="947" ts="1370325629042" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="2038" lt="893" ts="1370325629042" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2676" lt="630" ts="1370325628656" s="true" lb="order success" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="305235">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="631" lt="630" ts="1370325628656" s="true" lb="https://antuat.fptest.co.uk/orders/26/success" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2393"/>
+  <httpSample t="1636" lt="766" ts="1370325629297" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="2035" lt="801" ts="1370325629297" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2546" lt="611" ts="1370325629329" s="true" lb="order success" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="305239">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="611" lt="611" ts="1370325629329" s="true" lb="https://antuat.fptest.co.uk/orders/28/success" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="2397"/>
+  <httpSample t="1732" lt="808" ts="1370325629949" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1926" lt="914" ts="1370325629949" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2841" lt="436" ts="1370325629188" s="true" lb="Logout" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="307755">
+  <httpSample t="436" lt="436" ts="1370325629188" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="1166"/>
+  <httpSample t="483" lt="483" ts="1370325629624" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3747"/>
+  <httpSample t="1799" lt="911" ts="1370325630117" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1912" lt="901" ts="1370325630117" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2948" lt="452" ts="1370325630076" s="true" lb="Logout" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="307755">
+  <httpSample t="452" lt="452" ts="1370325630076" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="1166"/>
+  <httpSample t="449" lt="449" ts="1370325630529" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3747"/>
+  <httpSample t="1764" lt="768" ts="1370325630985" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="2039" lt="768" ts="1370325630985" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2925" lt="448" ts="1370325631388" s="true" lb="Logout" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="307755">
+  <httpSample t="449" lt="448" ts="1370325631388" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="1166"/>
+  <httpSample t="452" lt="452" ts="1370325631837" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3747"/>
+  <httpSample t="1594" lt="889" ts="1370325632296" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="2017" lt="955" ts="1370325632296" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2656" lt="446" ts="1370325631835" s="true" lb="Logout" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="307755">
+  <httpSample t="446" lt="446" ts="1370325631835" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="1166"/>
+  <httpSample t="454" lt="454" ts="1370325632282" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3747"/>
+  <httpSample t="1612" lt="890" ts="1370325632743" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1748" lt="878" ts="1370325632743" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3031" lt="445" ts="1370325631583" s="true" lb="Logout" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="307755">
+  <httpSample t="445" lt="445" ts="1370325631583" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="1166"/>
+  <httpSample t="572" lt="572" ts="1370325632029" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="3747"/>
+  <httpSample t="1649" lt="915" ts="1370325632608" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="106091"/>
+  <httpSample t="2006" lt="938" ts="1370325632608" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Place a New Order 1-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="3008" lt="497" ts="1370325632378" s="true" lb="Logout" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="307755">
+  <httpSample t="497" lt="497" ts="1370325632378" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="1166"/>
+  <httpSample t="457" lt="457" ts="1370325632875" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3747"/>
+  <httpSample t="1667" lt="770" ts="1370325633342" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="2044" lt="795" ts="1370325633342" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2878" lt="438" ts="1370325632531" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="307693">
+  <httpSample t="439" lt="438" ts="1370325632531" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="448" lt="448" ts="1370325632971" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3866"/>
+  <httpSample t="1676" lt="778" ts="1370325633426" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1983" lt="783" ts="1370325633426" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2818" lt="421" ts="1370325633526" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="307693">
+  <httpSample t="421" lt="421" ts="1370325633526" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="465" lt="465" ts="1370325633948" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3866"/>
+  <httpSample t="1614" lt="905" ts="1370325634421" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1923" lt="906" ts="1370325634421" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="496" lt="496" ts="1370325635911" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Edit Payment Details 2-1" dt="text" by="1072"/>
+<httpSample t="483" lt="483" ts="1370325636846" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Edit Player Details 6-1" dt="text" by="1066"/>
+<httpSample t="585" lt="585" ts="1370325636910" s="true" lb="Open Customer details" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3474"/>
+<httpSample t="2893" lt="455" ts="1370325634816" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="307693">
+  <httpSample t="455" lt="455" ts="1370325634816" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="455" lt="455" ts="1370325635272" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3866"/>
+  <httpSample t="1675" lt="925" ts="1370325635735" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1974" lt="931" ts="1370325635735" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2874" lt="449" ts="1370325634994" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="307693">
+  <httpSample t="449" lt="449" ts="1370325634994" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="464" lt="463" ts="1370325635444" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3866"/>
+  <httpSample t="1615" lt="903" ts="1370325635915" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="1953" lt="913" ts="1370325635915" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="572" lt="572" ts="1370325637832" s="true" lb="Open Player details" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3417"/>
+<httpSample t="483" lt="483" ts="1370325638212" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Edit Existing Selections 5-1" dt="text" by="1066"/>
+<httpSample t="2858" lt="445" ts="1370325635889" s="true" lb="Navigate to login page" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="307693">
+  <httpSample t="445" lt="445" ts="1370325635889" s="true" lb="https://antuat.fptest.co.uk/" rc="302" rm="Found" tn="" dt="text" by="985"/>
+  <httpSample t="456" lt="456" ts="1370325636335" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3866"/>
+  <httpSample t="1724" lt="806" ts="1370325636801" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1946" lt="786" ts="1370325636801" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="457" lt="457" ts="1370325638370" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Cancel Existing Order 3-1" dt="text" by="1066"/>
+<httpSample t="1087" lt="1087" ts="1370325637998" s="true" lb="Navigate to Play Details" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2629"/>
+<httpSample t="790" lt="788" ts="1370325638907" s="true" lb="Edit Player" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="9356"/>
+<httpSample t="475" lt="475" ts="1370325639251" s="true" lb="Send login credentials" rc="302" rm="Found" tn="Add New Selections 4-1" dt="text" by="1066"/>
+<httpSample t="574" lt="574" ts="1370325639198" s="true" lb="Open Customer details" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3418"/>
+<httpSample t="604" lt="604" ts="1370325639331" s="true" lb="Open Customer details" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3418"/>
+<httpSample t="1219" lt="1219" ts="1370325639588" s="true" lb="Edit Bank Account Details" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2731"/>
+<httpSample t="856" lt="855" ts="1370325640228" s="true" lb="Open Customer details" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3415"/>
+<httpSample t="1335" lt="1334" ts="1370325640276" s="true" lb="Select Existing Order" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3273"/>
+<httpSample t="1724" lt="1724" ts="1370325640438" s="true" lb="Navigate to Entries" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2502"/>
+<httpSample t="1326" lt="1326" ts="1370325641586" s="true" lb="Navigate to Entries" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="2500"/>
+<httpSample t="2828" lt="1658" ts="1370325640200" s="true" lb="Update Player Details and Confirm" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="4861">
+  <httpSample t="1658" lt="1658" ts="1370325640200" s="true" lb="https://antuat.fptest.co.uk/customers/7944695" rc="302" rm="Found" tn="" dt="text" by="1255"/>
+  <httpSample t="1169" lt="1168" ts="1370325641859" s="true" lb="https://antuat.fptest.co.uk/customers/7944695" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3606"/>
+</httpSample>
+<httpSample t="1163" lt="1163" ts="1370325642113" s="true" lb="Edit Selections" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3843"/>
+<httpSample t="2595" lt="1408" ts="1370325641311" s="true" lb="Post new Bank Account details" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3715">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="1409" lt="1408" ts="1370325641311" s="true" lb="https://antuat.fptest.co.uk/customers/7944694/payment_methods/22" rc="302" rm="Found" tn="" dt="text" by="1085"/>
+  <httpSample t="1185" lt="1185" ts="1370325642721" s="true" lb="https://antuat.fptest.co.uk/customers/7944694/payments" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2630"/>
+</httpSample>
+<httpSample t="1486" lt="1485" ts="1370325642664" s="true" lb="Select Order for Cancellation" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="4001"/>
+<httpSample t="782" lt="782" ts="1370325643532" s="true" lb="View Player" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3374">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1041" lt="1040" ts="1370325643415" s="true" lb="Select Existing Order" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3246"/>
+<httpSample t="922" lt="922" ts="1370325644410" s="true" lb="View Play Details" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="2630">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2142" lt="1078" ts="1370325643779" s="true" lb="Update Selection and Confirm" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="4778">
+  <httpSample t="1078" lt="1078" ts="1370325643779" s="true" lb="https://antuat.fptest.co.uk/orders/25/line_items/23" rc="302" rm="Found" tn="" dt="text" by="1247"/>
+  <httpSample t="1063" lt="1063" ts="1370325644858" s="true" lb="https://antuat.fptest.co.uk/orders/25" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3531"/>
+</httpSample>
+<httpSample t="2131" lt="2131" ts="1370325644960" s="true" lb="Edit Selections" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3843"/>
+<httpSample t="1049" lt="1049" ts="1370325646425" s="true" lb="View Orders" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3270">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3045" lt="2110" ts="1370325644653" s="true" lb="Cancel the order" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3551">
+  <httpSample t="2110" lt="2110" ts="1370325644653" s="true" lb="https://antuat.fptest.co.uk/customers/7944697/orders/26/cancel" rc="302" rm="Found" tn="" dt="text" by="1073"/>
+  <httpSample t="934" lt="934" ts="1370325646764" s="true" lb="https://antuat.fptest.co.uk/customers/7944697/orders" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2478"/>
+</httpSample>
+<httpSample t="3874" lt="538" ts="1370325644817" s="true" lb="Logout" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="307499">
+  <httpSample t="538" lt="538" ts="1370325644817" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="910"/>
+  <httpSample t="1420" lt="1420" ts="1370325645356" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="3747"/>
+  <httpSample t="1762" lt="1126" ts="1370325646783" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="106091"/>
+  <httpSample t="1908" lt="948" ts="1370325646783" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Player Details 6-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="815" lt="815" ts="1370325648202" s="true" lb="View Entries" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="2478">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="3298" lt="943" ts="1370325645836" s="true" lb="Logout" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="307499">
+  <httpSample t="943" lt="943" ts="1370325645836" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="910"/>
+  <httpSample t="462" lt="462" ts="1370325646780" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="3747"/>
+  <httpSample t="1659" lt="916" ts="1370325647249" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="106091"/>
+  <httpSample t="1885" lt="958" ts="1370325647249" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Payment Details 2-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="1834" lt="1027" ts="1370325647594" s="true" lb="Add New Selection and Confirm" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="4815">
+  <httpSample t="1027" lt="1027" ts="1370325647594" s="true" lb="https://antuat.fptest.co.uk/orders/28/line_items/27" rc="302" rm="Found" tn="" dt="text" by="1247"/>
+  <httpSample t="806" lt="806" ts="1370325648622" s="true" lb="https://antuat.fptest.co.uk/orders/28" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3568"/>
+</httpSample>
+<httpSample t="2786" lt="466" ts="1370325647976" s="true" lb="Logout" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="307499">
+  <httpSample t="466" lt="466" ts="1370325647976" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="910"/>
+  <httpSample t="457" lt="457" ts="1370325648444" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="3747"/>
+  <httpSample t="1763" lt="964" ts="1370325648908" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="106091"/>
+  <httpSample t="1854" lt="942" ts="1370325648908" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Edit Existing Selections 5-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="860" lt="860" ts="1370325649931" s="true" lb="View Orders" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3305">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="2941" lt="439" ts="1370325649521" s="true" lb="Logout" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="307499">
+  <httpSample t="439" lt="439" ts="1370325649521" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="910"/>
+  <httpSample t="437" lt="437" ts="1370325649961" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="3747"/>
+  <httpSample t="1632" lt="788" ts="1370325650405" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="106091"/>
+  <httpSample t="2057" lt="960" ts="1370325650405" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Cancel Existing Order 3-1" dt="text" by="196751"/>
+</httpSample>
+<httpSample t="2942" lt="467" ts="1370325651296" s="true" lb="Logout" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="307499">
+  <httpSample t="467" lt="467" ts="1370325651296" s="true" lb="https://antuat.fptest.co.uk/logout" rc="302" rm="Found" tn="" dt="text" by="910"/>
+  <httpSample t="473" lt="473" ts="1370325651763" s="true" lb="https://antuat.fptest.co.uk/login" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="3747"/>
+  <httpSample t="1774" lt="982" ts="1370325652243" s="true" lb="https://antuat.fptest.co.uk/assets/application-6b716e70921e1a10c7fd9c28f94bca00.css" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="106091"/>
+  <httpSample t="1995" lt="1014" ts="1370325652243" s="true" lb="https://antuat.fptest.co.uk/assets/application-021b0647d7c800313b16606036cb96f9.js" rc="200" rm="OK" tn="Add New Selections 4-1" dt="text" by="196751"/>
+</httpSample>
+
+</testResults>

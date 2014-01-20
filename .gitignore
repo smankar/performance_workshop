@@ -1,0 +1,11 @@
+*.swo
+/.idea
+*.iml
+*.ipr
+*.iws
+*.swp
+.rakeTasks
+.DS_Store
+tmp
+vendor
+.bundle

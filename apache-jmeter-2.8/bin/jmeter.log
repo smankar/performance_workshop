@@ -1,0 +1,562 @@
+2013/06/04 11:13:23 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: Loading user properties from: /Users/sandeepm/Downloads/softwares/apache-jmeter-2.8/bin/user.properties 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: Loading system properties from: /Users/sandeepm/Downloads/softwares/apache-jmeter-2.8/bin/system.properties 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: Copyright (c) 1998-2012 The Apache Software Foundation 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: Version 2.8 r1393162 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: java.version=1.6.0_31 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: os.name=Mac OS X 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: os.arch=x86_64 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: os.version=10.7.4 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: file.encoding=MacRoman 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: JMeterHome=/Users/sandeepm/Downloads/softwares/apache-jmeter-2.8 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: user.dir  =/Users/sandeepm/Downloads/softwares/apache-jmeter-2.8/bin 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: PWD       =/Users/sandeepm/Downloads/softwares/apache-jmeter-2.8/bin 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: IP: 10.12.6.30 Name: sandeepm FullName: 10.12.6.30 
+2013/06/04 11:13:23 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
+2013/06/04 11:13:24 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2013/06/04 11:13:24 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2013/06/04 11:13:24 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: com.apple.laf.AquaLookAndFeel [Mac OS X, System] 
+2013/06/04 11:13:25 INFO  - jmeter.gui.util.MenuFactory: Skipping kg.apc.jmeter.config.VariablesFromCSVFile 
+2013/06/04 11:13:26 INFO  - jmeter.util.BSFTestElement: Registering JMeter version of JavaScript engine as work-round for BSF-22 
+2013/06/04 11:13:26 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2013/06/04 11:13:26 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2013/06/04 11:13:26 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2013/06/04 11:13:26 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2013/06/04 11:13:26 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2013/06/04 11:13:26 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2013/06/04 11:13:26 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Reuse SSL session context on subsequent iterations: true 
+2013/06/04 11:13:26 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.modifier.gui.ParamModifierGui 
+2013/06/04 11:13:27 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2013/06/04 11:13:27 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2013/06/04 11:13:27 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2013/06/04 11:13:27 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2013/06/04 11:13:33 INFO  - jmeter.services.FileServer: Default base='/Users/sandeepm/Downloads/softwares/apache-jmeter-2.8/bin' 
+2013/06/04 11:13:33 INFO  - jmeter.gui.action.Load: Loading file: /Users/sandeepm/perf/turnstile/performance/config/turnstile_orders/journies.jmx 
+2013/06/04 11:13:33 INFO  - jmeter.services.FileServer: Set new base='/Users/sandeepm/perf/turnstile/performance/config/turnstile_orders' 
+2013/06/04 11:13:33 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2013/06/04 11:13:33 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2013/06/04 11:13:33 INFO  - jmeter.save.SaveService: Using SaveService properties file version 1382180 
+2013/06/04 11:13:33 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.3 
+2013/06/04 11:13:33 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2013/06/04 11:13:33 INFO  - jmeter.protocol.http.control.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_ 
+2013/06/04 11:13:34 INFO  - jmeter.services.FileServer: Set new base='/Users/sandeepm/perf/turnstile/performance/config/turnstile_orders' 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Listeners will be started after enabling running version 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: To revert to the earlier behaviour, define jmeterengine.startlistenerslater=false 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2013/06/04 11:17:21 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Place a New Order 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Place a New Order. 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/06/04 11:17:21 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/06/04 11:17:21 INFO  - jmeter.threads.JMeterThread: jmeterthread.startearlier=true (see jmeter.properties) 
+2013/06/04 11:17:21 INFO  - jmeter.threads.JMeterThread: Running PostProcessors in forward order 
+2013/06/04 11:17:21 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 2 : Edit Payment Details 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Edit Payment Details. 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/06/04 11:17:21 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 2 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/06/04 11:17:21 INFO  - jmeter.threads.JMeterThread: Thread started: Place a New Order 1-1 
+2013/06/04 11:17:21 INFO  - jmeter.threads.ThreadGroup: Started thread group number 2 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 3 : Cancel Existing Order 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Cancel Existing Order. 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/06/04 11:17:21 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 3 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/06/04 11:17:21 INFO  - jmeter.threads.JMeterThread: Thread started: Edit Payment Details 2-1 
+2013/06/04 11:17:21 INFO  - jmeter.threads.ThreadGroup: Started thread group number 3 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 4 : Add New Selections 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Add New Selections. 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/06/04 11:17:21 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 4 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/06/04 11:17:21 INFO  - jmeter.threads.JMeterThread: Thread started: Cancel Existing Order 3-1 
+2013/06/04 11:17:21 INFO  - jmeter.threads.ThreadGroup: Started thread group number 4 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 5 : Edit Existing Selections 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Edit Existing Selections. 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/06/04 11:17:21 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 5 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/06/04 11:17:21 INFO  - jmeter.threads.JMeterThread: Thread started: Add New Selections 4-1 
+2013/06/04 11:17:21 INFO  - jmeter.threads.ThreadGroup: Started thread group number 5 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 6 : Edit Player Details 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Edit Player Details. 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/06/04 11:17:21 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 6 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/06/04 11:17:21 INFO  - jmeter.threads.JMeterThread: Thread started: Edit Existing Selections 5-1 
+2013/06/04 11:17:21 INFO  - jmeter.threads.ThreadGroup: Started thread group number 6 
+2013/06/04 11:17:21 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2013/06/04 11:17:21 INFO  - jmeter.threads.JMeterThread: Thread started: Edit Player Details 6-1 
+2013/06/04 11:17:22 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = sandeepm 
+2013/06/04 11:17:22 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 1 
+2013/06/04 11:17:22 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: Setting up HTTPS TrustAll scheme 
+2013/06/04 11:17:22 INFO  - jmeter.util.JsseSSLManager: Using default SSL protocol: TLS 
+2013/06/04 11:17:22 INFO  - jmeter.util.JsseSSLManager: SSL session context: per-thread 
+2013/06/04 11:17:23 INFO  - jmeter.util.SSLManager: JmeterKeyStore Location:  type JKS 
+2013/06/04 11:17:23 INFO  - jmeter.util.SSLManager: JmeterKeyStore Location:  type JKS 
+2013/06/04 11:17:23 INFO  - jmeter.util.SSLManager: JmeterKeyStore Location:  type JKS 
+2013/06/04 11:17:23 INFO  - jmeter.util.SSLManager: JmeterKeyStore Location:  type JKS 
+2013/06/04 11:17:23 INFO  - jmeter.util.SSLManager: JmeterKeyStore Location:  type JKS 
+2013/06/04 11:17:23 INFO  - jmeter.util.SSLManager: JmeterKeyStore Location:  type JKS 
+2013/06/04 11:17:23 INFO  - jmeter.util.SSLManager: KeyStore created OK 
+2013/06/04 11:17:23 INFO  - jmeter.util.SSLManager: KeyStore created OK 
+2013/06/04 11:17:23 INFO  - jmeter.util.SSLManager: KeyStore created OK 
+2013/06/04 11:17:23 INFO  - jmeter.util.SSLManager: KeyStore created OK 
+2013/06/04 11:17:23 INFO  - jmeter.util.SSLManager: KeyStore created OK 
+2013/06/04 11:17:23 INFO  - jmeter.util.SSLManager: KeyStore created OK 
+2013/06/04 11:17:23 WARN  - jmeter.util.SSLManager: Keystore file not found, loading empty keystore 
+2013/06/04 11:17:23 WARN  - jmeter.util.SSLManager: Keystore file not found, loading empty keystore 
+2013/06/04 11:17:23 WARN  - jmeter.util.SSLManager: Keystore file not found, loading empty keystore 
+2013/06/04 11:17:23 WARN  - jmeter.util.SSLManager: Keystore file not found, loading empty keystore 
+2013/06/04 11:17:23 WARN  - jmeter.util.SSLManager: Keystore file not found, loading empty keystore 
+2013/06/04 11:17:23 WARN  - jmeter.util.SSLManager: Keystore file not found, loading empty keystore 
+2013/06/04 11:17:24 INFO  - jmeter.protocol.http.parser.HtmlParserHTMLParser: Using htmlparser version: 2.0 (Release Build Sep 17, 2006) 
+2013/06/04 11:17:24 INFO  - jmeter.protocol.http.parser.HtmlParserHTMLParser: Using htmlparser version: 2.0 (Release Build Sep 17, 2006) 
+2013/06/04 11:17:24 INFO  - jmeter.protocol.http.parser.HtmlParserHTMLParser: Using htmlparser version: 2.0 (Release Build Sep 17, 2006) 
+2013/06/04 11:17:24 INFO  - jmeter.protocol.http.parser.HTMLParser: Created org.apache.jmeter.protocol.http.parser.HtmlParserHTMLParser 
+2013/06/04 11:17:24 INFO  - jmeter.protocol.http.parser.HTMLParser: Created org.apache.jmeter.protocol.http.parser.HtmlParserHTMLParser 
+2013/06/04 11:17:24 INFO  - jmeter.protocol.http.parser.HtmlParserHTMLParser: Using htmlparser version: 2.0 (Release Build Sep 17, 2006) 
+2013/06/04 11:17:24 INFO  - jmeter.protocol.http.parser.HTMLParser: Created org.apache.jmeter.protocol.http.parser.HtmlParserHTMLParser 
+2013/06/04 11:17:24 INFO  - jmeter.protocol.http.parser.HTMLParser: Created org.apache.jmeter.protocol.http.parser.HtmlParserHTMLParser 
+2013/06/04 11:17:24 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:24 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:24 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:24 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:24 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:24 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:24 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:24 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:24 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:24 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:24 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:24 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:34 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:34 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:34 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:34 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:35 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:35 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:35 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:35 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:35 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:35 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:36 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:36 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:37 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:37 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:37 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:37 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:38 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:38 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:38 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:38 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:38 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:38 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:38 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:38 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:41 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:42 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:42 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:42 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:42 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:42 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:42 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:42 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:42 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:45 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:45 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:45 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:45 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:45 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:45 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:45 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:45 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:46 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:46 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:46 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:46 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:46 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:46 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:46 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:46 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:47 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:47 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:50 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:50 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:50 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:50 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:50 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:50 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:51 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:51 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:51 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:51 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:52 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:52 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:54 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:54 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:54 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:54 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:54 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:54 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:55 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:55 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:57 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:57 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:58 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:58 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:17:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:00 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:00 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:02 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:02 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:02 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:02 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:03 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:03 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:04 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:04 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:05 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:05 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:06 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:06 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:07 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:07 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:08 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:08 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:09 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:09 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:10 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:10 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:10 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:10 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:11 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:11 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:12 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:12 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:13 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:13 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:14 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:14 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:14 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:14 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:15 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:15 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:16 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:16 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:17 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:17 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:17 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:17 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:18 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:18 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:20 INFO  - jmeter.threads.JMeterThread: Thread finished: Place a New Order 1-1 
+2013/06/04 11:18:20 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:20 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:21 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:21 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:30 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:30 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:31 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:31 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:31 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:31 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:33 INFO  - jmeter.threads.JMeterThread: Thread finished: Edit Player Details 6-1 
+2013/06/04 11:18:34 INFO  - jmeter.threads.JMeterThread: Thread finished: Add New Selections 4-1 
+2013/06/04 11:18:34 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:34 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:34 INFO  - jmeter.threads.JMeterThread: Thread finished: Cancel Existing Order 3-1 
+2013/06/04 11:18:34 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:34 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:18:37 INFO  - jmeter.threads.JMeterThread: Thread finished: Edit Payment Details 2-1 
+2013/06/04 11:18:37 INFO  - jmeter.threads.JMeterThread: Thread finished: Edit Existing Selections 5-1 
+2013/06/04 11:18:37 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2013/06/04 11:18:37 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
+2013/06/04 11:29:37 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2013/06/04 11:29:37 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Place a New Order 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Place a New Order. 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/06/04 11:29:38 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/06/04 11:29:38 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 2 : Edit Payment Details 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Edit Payment Details. 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/06/04 11:29:38 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 2 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/06/04 11:29:38 INFO  - jmeter.threads.JMeterThread: Thread started: Place a New Order 1-1 
+2013/06/04 11:29:38 INFO  - jmeter.threads.ThreadGroup: Started thread group number 2 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 3 : Cancel Existing Order 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Cancel Existing Order. 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/06/04 11:29:38 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 3 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/06/04 11:29:38 INFO  - jmeter.threads.JMeterThread: Thread started: Edit Payment Details 2-1 
+2013/06/04 11:29:38 INFO  - jmeter.threads.ThreadGroup: Started thread group number 3 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 4 : Add New Selections 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Add New Selections. 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/06/04 11:29:38 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 4 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/06/04 11:29:38 INFO  - jmeter.threads.JMeterThread: Thread started: Cancel Existing Order 3-1 
+2013/06/04 11:29:38 INFO  - jmeter.threads.ThreadGroup: Started thread group number 4 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 5 : Edit Existing Selections 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Edit Existing Selections. 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/06/04 11:29:38 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 5 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/06/04 11:29:38 INFO  - jmeter.threads.ThreadGroup: Started thread group number 5 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 6 : Edit Player Details 
+2013/06/04 11:29:38 INFO  - jmeter.threads.JMeterThread: Thread started: Add New Selections 4-1 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Edit Player Details. 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2013/06/04 11:29:38 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 6 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2013/06/04 11:29:38 INFO  - jmeter.threads.JMeterThread: Thread started: Edit Existing Selections 5-1 
+2013/06/04 11:29:38 INFO  - jmeter.threads.ThreadGroup: Started thread group number 6 
+2013/06/04 11:29:38 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2013/06/04 11:29:38 INFO  - jmeter.threads.JMeterThread: Thread started: Edit Player Details 6-1 
+2013/06/04 11:29:39 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:39 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:39 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:39 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:39 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:39 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:39 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:39 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:39 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:39 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:40 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:40 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:44 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:49 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:49 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:49 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:49 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:49 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:49 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:49 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:49 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:49 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:49 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:50 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:50 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:52 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:52 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:52 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:52 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:52 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:52 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:52 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:52 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:52 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:52 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:53 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:53 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:55 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:55 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:55 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:55 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:56 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:58 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:58 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:58 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:58 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:58 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:58 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:58 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:58 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:58 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:58 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:58 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:58 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:29:59 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:03 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:03 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:03 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:03 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:04 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:04 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:04 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:04 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:04 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:04 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:05 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:05 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:06 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:06 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:06 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:06 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:07 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:07 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:07 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:07 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:07 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:07 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:08 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:08 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:12 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:12 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:13 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:13 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:13 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:13 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:14 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:14 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:14 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:14 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:20 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:20 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:20 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:20 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:21 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:21 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:22 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:22 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:23 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:23 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:23 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:23 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:24 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:24 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:26 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:26 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:27 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:27 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:28 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:28 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:29 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:30 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:30 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:30 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:30 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:32 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:32 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:32 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:32 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:32 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:32 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:33 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:33 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:33 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:33 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:34 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:34 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:34 INFO  - jmeter.threads.JMeterThread: Thread finished: Place a New Order 1-1 
+2013/06/04 11:30:35 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:35 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:35 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:35 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:36 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:36 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:46 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:46 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:47 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:47 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:48 INFO  - jmeter.threads.JMeterThread: Thread finished: Edit Player Details 6-1 
+2013/06/04 11:30:48 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:48 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:49 INFO  - jmeter.threads.JMeterThread: Thread finished: Edit Payment Details 2-1 
+2013/06/04 11:30:50 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:50 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:50 INFO  - jmeter.threads.JMeterThread: Thread finished: Edit Existing Selections 5-1 
+2013/06/04 11:30:52 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:52 WARN  - jmeter.protocol.http.sampler.HTTPSamplerBase: Existing CookieManager HTTP Cookie Manager superseded by HTTP Cookie Manager 
+2013/06/04 11:30:52 INFO  - jmeter.threads.JMeterThread: Thread finished: Cancel Existing Order 3-1 
+2013/06/04 11:30:54 INFO  - jmeter.threads.JMeterThread: Thread finished: Add New Selections 4-1 
+2013/06/04 11:30:54 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2013/06/04 11:30:54 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
